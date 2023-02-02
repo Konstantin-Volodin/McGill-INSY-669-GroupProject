@@ -12,4 +12,5 @@ dependencies:
   - requests
   - nltk
   - autopep8
+  - nest-asyncio
 prefix: C:\Users\Konstantin\.conda\envs\insy-669-group-project
