@@ -1,0 +1,15 @@
+name: insy-669-group-project
+channels:
+  - https://conda.anaconda.org/gurobi
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - matplotlib
+  - pandas
+  - bs4
+  - requests
+  - nltk
+  - autopep8
+prefix: C:\Users\Konstantin\.conda\envs\insy-669-group-project
