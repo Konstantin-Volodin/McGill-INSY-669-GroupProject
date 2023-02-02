@@ -13,4 +13,7 @@ dependencies:
   - nltk
   - autopep8
   - nest-asyncio
+  - aiohttp
+  - lxml
+  - cchardet
 prefix: C:\Users\Konstantin\.conda\envs\insy-669-group-project
