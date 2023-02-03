@@ -1,0 +1,634 @@
+id,Title_Review,Stars,Company_name,Recommend,CEO_approval,Business_outlook,Pros,Cons,Employee_seniority,Location,Date
+empReview_72295158,Good,5.0,Amazon,positive,positive,positive,Good opportunities and easy to transfer teams,Low performers are managed out,"Current Employee, more than 3 years","Toronto, ON","Jan. 3, 2023"
+empReview_73254217,I was on a great team before I got laid off,5.0,Amazon,neutral,neutral,neutral,* Work life balance * Compensation * Team was very friendly and everyone helped out,* Huge infrastructure is daunting to learn as a new-grad/intern,"Former Employee, less than 1 year","Vancouver, BC","Feb. 2, 2023"
+empReview_73190433,job review,5.0,Amazon,positive,positive,positive,"good benefit, flexible time shift. take care of employee .","better organization of work, better car parking arrangement.",Former Employee,,"Jan. 31, 2023"
+empReview_73218068,Good Company b,5.0,Amazon,neutral,neutral,neutral,It is a good company,Over time could be hard to get,Current Employee,,"Feb. 1, 2023"
+empReview_73197210,Growth Opportunity,4.0,Amazon,positive,negative,negative,"Fast paced, Start-Up Culture, Benefits","Compensation, Growth Prospects, Development Opportunity","Current Employee, more than 3 years","Vancouver, BC","Jan. 31, 2023"
+empReview_73208298,Tech recruiter,4.0,Amazon,neutral,neutral,neutral,Opportunities to grow Work with talented people,Potential layoffs Very fast paced,Current Employee,,"Feb. 1, 2023"
+empReview_73149307,great company,5.0,Amazon,positive,positive,positive,- lot of challenges - speak with data - great leadership,"none, best company ever. glad i worked for them","Former Employee, more than 8 years","Calgary, AB","Jan. 30, 2023"
+empReview_73187609,intern,5.0,Amazon,neutral,neutral,neutral,4 days shifts is nice,long hour shift can make you feel tired,"Former Employee, less than 1 year","Toronto, ON","Jan. 31, 2023"
+empReview_73188818,good,5.0,Amazon,positive,positive,positive,"great work balance, great environment, location not far",workload can be heavy sometimes,"Former Employee, more than 1 year","Amazon, SK","Jan. 31, 2023"
+empReview_73146117,Bad wlb,4.0,Amazon,positive,negative,negative,Good pay and benefits for new grad,"Lots of work, high stress","Current Employee, less than 1 year","Vancouver, BC","Jan. 30, 2023"
+empReview_73095127,SDE in the AVS-CPP-SDK team,5.0,Amazon,positive,neutral,neutral,It teaches fast and focuses a lot of time on it as well.,Reduce the number of meetings.,Former Employee,,"Jan. 29, 2023"
+empReview_73094099,Good Company,4.0,Amazon,neutral,neutral,neutral,"Good pay, challenging and interesting work","Toxic team members, low growth.",Current Employee,"Vancouver, BC","Jan. 28, 2023"
+empReview_73095940,Good company,4.0,Amazon,neutral,neutral,neutral,It’s great for your resume,Pay structure is highly dependent upon the stock performance,Current Employee,"Toronto, ON","Jan. 29, 2023"
+empReview_73101250,Working at Amazon has expanded my personal development,4.0,Amazon,negative,positive,error,"Amazon’s Leadership Principles
+A lot of opportunities to develop your own work projects
+Travel opportunities, which are great for networking and career growth","The current marketplace presents limited career growth opportunities 
+Working in a warehouse environment versus a more aesthetically appealing office environment","Current Employee, more than 3 years",,"Jan. 29, 2023"
+empReview_73105526,It was okay but stressfull,4.0,Amazon,negative,negative,negative,Pay rate is good according to the work.,So much stress they give to employees.,"Former Employee, more than 1 year","Surrey, BC","Jan. 29, 2023"
+empReview_73108472,Great benefits,4.0,Amazon,negative,positive,negative,great benefits bonuses everything is available 24/7,work culture is negative depending on the location little to no diversity,"Current Employee, less than 1 year",,"Jan. 29, 2023"
+empReview_73071324,Fulfillment associate,4.0,Amazon,positive,positive,positive,"Diversity, management, opportunities to grow, good compensation",Injuries like repetitive stress injuries,"Current Employee, more than 1 year","Brampton, ON","Jan. 27, 2023"
+empReview_73077545,Good to try as a short term career,4.0,Amazon,positive,neutral,neutral,"Not getting bored, Can be fun if you like driving and some pgysical activity Clean and professional workplace",Long shifts Physically drmanding Very difficult in winter,"Former Employee, less than 1 year","Montreal, QC","Jan. 28, 2023"
+empReview_73082914,Big company,4.0,Amazon,positive,negative,error,"Good pay, good to have FAANG on your resume",Work life balance is not good,"Current Employee, more than 1 year","Toronto, ON","Jan. 28, 2023"
+empReview_73040763,Amazon Project Manager,5.0,Amazon,neutral,neutral,neutral,"fast paced, opportunity to innovate and flexibility, high paying",Job security is based on market demand,Former Employee,"Toronto, ON","Jan. 26, 2023"
+empReview_73066081,Security officers,5.0,Amazon,neutral,neutral,neutral,".big company to work for .more hour available to work .many position available to work .standing,sitting,walking .benefits",.supervisor donnot allow to learn the things .not criteria only seniority basis to get up to the ladder,Former Employee,"Brampton, ON","Jan. 27, 2023"
+empReview_73067330,Yes,5.0,Amazon,positive,positive,positive,Amazing place to work and learn,Nothing is wrong expect they will pay you bananas,Current Employee,"Toronto, ON","Jan. 27, 2023"
+empReview_73039952,Very good for someone who does not have a degree,4.0,Amazon,neutral,neutral,neutral,Over-average pay for entry-level positions,A never-ending flow of work,"Current Employee, less than 1 year",,"Jan. 26, 2023"
+empReview_73053503,try hard,4.0,Amazon,neutral,neutral,neutral,good for part time opportunities,likely to have prominent shifts on daily basis,Former Employee,"Scarborough, ON","Jan. 27, 2023"
+empReview_73055466,Learn by doing,4.0,Amazon,neutral,neutral,neutral,If learning by doing is your way of learning,Can be long hours and unexpected,"Current Employee, more than 3 years","Brampton, ON","Jan. 27, 2023"
+empReview_73057263,Simple pros and cons,4.0,Amazon,positive,error,negative,"Well-built internal processes, and tools. The team is fantastic, management also.",Demanding and fast pace. Need to make an effort to allocate time for real development.,"Current Employee, more than 1 year","Toronto, ON","Jan. 27, 2023"
+empReview_73057530,Review about amazon,4.0,Amazon,positive,positive,positive,Team work Friendly Environment High pay,Competition with colleges Always race to prove their self,"Current Employee, more than 1 year","Vancouver, BC","Jan. 27, 2023"
+empReview_73014358,Amazing Environment to Innovate,5.0,Amazon,positive,positive,positive,Amazon provides the right environment to innovate. Management team allows you to create and propose new ideas. Bias for action provides the speed the industry requires. I am very happy and proud to work for Amazon.,The challenges for a new employee is the tons of information they will receive. However colleagues and managers give you the time you integrate.,"Current Employee, less than 1 year","Montreal, QC","Jan. 26, 2023"
+empReview_73027410,Review about amazon,5.0,Amazon,neutral,neutral,neutral,good to see people from different communities,its a very fast paced environment,Former Employee,,"Jan. 26, 2023"
+empReview_73001727,Work life,4.0,Amazon,neutral,neutral,neutral,Management is good they listen to your concerns and will address them,"Politics , management favours some employees","Current Employee, more than 1 year","Calgary, AB","Jan. 25, 2023"
+empReview_73001727,Work life,4.0,Amazon,neutral,neutral,neutral,Management is good they listen to your concerns and will address them,"Politics , management favours some employees","Current Employee, more than 1 year","Calgary, AB","Jan. 25, 2023"
+empReview_73016558,Great place to work and grow your career,4.0,Amazon,positive,positive,positive,"You get to work with the best talents around you. SDEs/SDMs are always willing to share information and help each other towards work goals. Operational process is transparent to all and hence there is less toxicity or biases. Leadership Principles are followed religiously and therefore serve as guiding light. Work hard , deliver and you will grow otherwise it is not easy to sustain in the fast-paced environment.","it is not a 9-5 job (and your compensation sort of dictates that) and you are expected to deliver your best so be prepared to hustle and transform yourself into your better version. Otherwise, this is not your place. No-frills in terms of misc benefits such as free swags/lunches/events as Amazon practices frugality in its operations (one of the Leadership Principles). So don't expect such pampering.","Current Employee, less than 1 year","Toronto, ON","Jan. 26, 2023"
+empReview_73029576,Huge Machine,4.0,Amazon,negative,positive,error,Biggest company in the world Growth opportunities Very good benefit plan,Limited in decision taking Many unexperienced Managers missing employee management skills,Current Employee,,"Jan. 26, 2023"
+empReview_72958791,Amazon,5.0,Amazon,positive,positive,positive,Great workplace for a warehouse job,I can not think of any,"Current Employee, more than 1 year","Hamilton, ON","Jan. 24, 2023"
+empReview_72982771,Organized,5.0,Amazon,positive,error,positive,Being on time on pay as well as transparency on everything from hours to pay.,More flexibility of just working 8 hour shifts,Former Employee,,"Jan. 25, 2023"
+empReview_72969587,Relaxed environment,4.0,Amazon,positive,positive,neutral,- Good pay - Work life balance,- Slow career progression as there's a quite a lot of fat in the company,"Former Employee, more than 1 year","Toronto, ON","Jan. 25, 2023"
+empReview_72978191,Amazon,4.0,Amazon,negative,error,error,Encourage safety and a good work environment,too much physical pressure and long shifts,Current Employee,,"Jan. 25, 2023"
+empReview_72922433,"Flexible, challenging, rewarding",5.0,Amazon,positive,positive,positive,- Great environment. Teammates follow the leadership principles. - Remote and pretty flexible - Very good benefits and pay - Challenging thus promotes your growth as SDE.,- 1 week of oncall can be a pain sometimes but it happens every 2.5 -3 months so still bearable.,"Current Employee, less than 1 year","Montreal, QC","Jan. 23, 2023"
+empReview_72920771,"Not the best option in Vancouver, but...",4.0,Amazon,neutral,error,error,"- They pay you more cash than other big names - They have multiple office locations and expanding, all are nice.","- Some teams might be toxic, inevitable since it's Amazon. - Heavy oncall duty. - They only unlock 20% of the total RSUs after 2 years of working. - No bonus.","Former Employee, more than 1 year","Vancouver, BC","Jan. 23, 2023"
+empReview_72939150,Amazing Place,4.0,Amazon,positive,positive,positive,Good place to work and comes with benefits,It's fast paced work place,"Current Employee, less than 1 year","Toronto, ON","Jan. 24, 2023"
+empReview_72880884,Experience of a lifetime,4.0,Amazon,neutral,neutral,neutral,- Crash course in writing - Crash course in customer-backwards thinking - Crash course in time management - Crash course in productivity,- Job satisfaction - Overdependence on manager for career growth,"Former Employee, more than 5 years","Toronto, ON","Jan. 22, 2023"
+empReview_72906619,Great company,4.0,Amazon,positive,positive,positive,Great review process. Good pay and benefits!,Work life balance can be difficult depending on your boss,"Current Employee, more than 3 years","Toronto, ON","Jan. 23, 2023"
+empReview_72912648,fine,4.0,Amazon,neutral,neutral,neutral,"busy, little money, hard work","late nights, few benefits, no motivation",Former Employee,,"Jan. 23, 2023"
+empReview_72867364,I like working with Amazon,4.0,Amazon,neutral,neutral,neutral,Good pay and smart people.,The biggest cons is the stress and stress.,Current Employee,"Toronto, ON","Jan. 22, 2023"
+empReview_72871061,Nice place to grow,4.0,Amazon,neutral,neutral,neutral,- competitive salary - stock benefits - opportunities to grow -,- long hours - heavy lifting,Current Employee,,"Jan. 22, 2023"
+empReview_72875295,Good,4.0,Amazon,positive,positive,positive,Good pay for part time job,Long hours and tiring so yea,"Former Employee, less than 1 year","Montreal, QC","Jan. 22, 2023"
+empReview_72850457,Good company to work in,4.0,Amazon,neutral,neutral,neutral,"benefits, opportunities, training, pay, career","communication management, noise, commute, schedules","Current Employee, more than 1 year","Ottawa, ON","Jan. 21, 2023"
+empReview_72858133,Operation role,4.0,Amazon,positive,error,positive,Technology Fast past Skill people Benefits,Performance Long hours Frugality Cost focus,Current Employee,,"Jan. 21, 2023"
+empReview_72826316,Never trust amazon,5.0,Amazon,positive,negative,negative,They have good onboarding schemae,They fired depends on tenture rather than performance,"Current Employee, less than 1 year","Vancouver, BC","Jan. 20, 2023"
+empReview_72825937,Good for Students,4.0,Amazon,neutral,neutral,neutral,"Flexible Schedule, fare pay as labor. standard environment","Heavy work, you have to strong enough to lift heavy pacages",Former Employee,,"Jan. 20, 2023"
+empReview_72644026,Good work environment,4.0,Amazon,positive,error,positive,I can learn about more things,the growth is too slow,Former Employee,,"Jan. 15, 2023"
+empReview_72624962,Good place for a entry level job,5.0,Amazon,positive,neutral,neutral,"Good pay, 4-day shifts, easy job.","Physical labor, standing for too much time, if you are not from Punjab, you might find a bit hard to fit in.","Former Employee, less than 1 year","Delta, BC","Jan. 14, 2023"
+empReview_72615338,Great experience,4.0,Amazon,positive,positive,positive,Nice coworkers made this job fun,The shifts were long and busy,"Former Employee, more than 3 years",,"Jan. 13, 2023"
+empReview_72595190,First 3 months at Amazon,5.0,Amazon,positive,positive,neutral,"- A well planned onboarding program that incrementally onboards and educates new employees - All employees at the company are made very accessible and welcoming to connect with. - In spite of its scale & success, Amazon has been able to build a culture that values it leadership principles and most importantly an environment where its constantly put into practice.","- Due to shear scale & size, joining the company involves learning a host of new systems, teams structures & processes. So give it time.","Current Employee, less than 1 year","Toronto, ON","Jan. 13, 2023"
+empReview_73089781,Poor work life balance and job security,2.0,Amazon,neutral,neutral,neutral,Good pay compared to other Canadian companies A lot of internal resources,On call hours are long PIP and layoffs Most resources are internal,"Current Employee, less than 1 year","Vancouver, BC","Jan. 28, 2023"
+empReview_73050228,good,3.0,Amazon,neutral,neutral,neutral,good company and high pay job,heavy work load and fast phase,Former Employee,,"Jan. 27, 2023"
+empReview_73053494,Amazon overnight stocker,3.0,Amazon,neutral,neutral,neutral,very good pay compared to other jobs,work was too hard on the body to sustain for a long time,"Former Employee, less than 1 year","Vaughan, ON","Jan. 27, 2023"
+empReview_72558176,Great,4.0,Amazon,positive,positive,positive,Drivers Snack Shack and Good working environment,extreme physical activities required on a daily for carrying out duties,Current Employee,,"Jan. 12, 2023"
+empReview_73003431,Alright,3.0,Amazon,neutral,neutral,neutral,4 days on 3 days off,worklife balance. Long shifts with no overtime,"Former Employee, more than 1 year","Surrey, BC","Jan. 25, 2023"
+empReview_72536361,awesome,5.0,Amazon,negative,neutral,negative,co workers are really nice,sucky hours for the pay,Current Employee,,"Jan. 11, 2023"
+empReview_72536361,awesome,5.0,Amazon,negative,neutral,negative,co workers are really nice,sucky hours for the pay,Current Employee,,"Jan. 11, 2023"
+empReview_72986345,Amazon,3.0,Amazon,neutral,neutral,neutral,it has a great work environment,it should have more one on one session for improving performance,Former Employee,,"Jan. 25, 2023"
+empReview_72466084,Great Interview Experience,5.0,Amazon,neutral,neutral,neutral,- Well structured interview process - Behavior questions that can make candidates to understand the work culture in Amazon,- It was a great interview process,Current Employee,,"Jan. 9, 2023"
+empReview_72470738,"Long Hours, Great Pay",5.0,Amazon,positive,positive,positive,We get a Pizza party once a week,"Had to get a ""Property of Bezos"" tatto on my rear buttock","Current Employee, less than 1 year","Toronto, ON","Jan. 9, 2023"
+empReview_72498977,Data Analyst,5.0,Amazon,neutral,neutral,neutral,Very good for my time,Nothing to add here as it was good,"Former Employee, more than 1 year",,"Jan. 10, 2023"
+empReview_72466689,Amazon Cleaner,4.0,Amazon,neutral,neutral,neutral,Very kind and friendly co-workers,Very big area and time to clean,Current Employee,"Vancouver, BC","Jan. 9, 2023"
+empReview_72434367,Amazon YYC5 Sorting Center,5.0,Amazon,positive,neutral,positive,"Flexible hours, PTO, consistent schedule, being a sorting center, the work was generally straight forward and enjoyable.",Increase or decrease of shift hours mid shift could create complications with anticipated plans.,"Current Employee, less than 1 year",,"Jan. 8, 2023"
+empReview_72435196,nice company,5.0,Amazon,neutral,positive,neutral,nice company and well paid,very stressful job and demanding,"Current Employee, more than 1 year","Toronto, ON","Jan. 8, 2023"
+empReview_72457754,Good working environment,5.0,Amazon,positive,positive,positive,Staff is so polite and helpful.,"Nothing, there is nothing bad I have experienced yet.",Current Employee,,"Jan. 9, 2023"
+empReview_72464791,Warehouse Associate,5.0,Amazon,positive,error,error,Good Environment to work at Amazon,Timings available to work at Amazon,Former Employee,,"Jan. 9, 2023"
+empReview_72435093,A lot of work but also lots of learning opportunities,4.0,Amazon,positive,error,error,Great compensation A lot of learning opportunities Amazing people You get to witness the scale of a trillion dollar org,High turnover rate A lot of work Pretty frugal in terms of perks,"Current Employee, less than 1 year","Vancouver, BC","Jan. 8, 2023"
+empReview_72459227,Work culture,4.0,Amazon,neutral,neutral,neutral,Nice as it pay good,Bad because it takes so much work,"Current Employee, less than 1 year",,"Jan. 9, 2023"
+empReview_72464788,Good opportunity,4.0,Amazon,positive,neutral,positive,Opportunity to learn and grow,Too much work at time and less staff,"Former Employee, more than 1 year",,"Jan. 9, 2023"
+empReview_72873018,Laid off,3.0,Amazon,negative,error,error,- Good work and engineers,- They don't really care about employees,Former Employee,,"Jan. 22, 2023"
+empReview_72412756,YYZ4,4.0,Amazon,positive,error,error,"1. VET (Volunteer Extra Time), lots of overtime if you need to make extra money. 2. You don't get in trouble for coming in late because you can use PTO (Personal Time Off). 3. There's lots of VTO (Volunteer Time Off) when you're tired and want to stay home or go home early. 4. Great benefits. 5. Career Choice. Amazon will pay 90% of your tuition.",1. Rates. You have to hit your rates or someone will come to lecture you and ask if there's any barrier for why you're not fast enough. My answer - Am not a robot. 2. Warning letters. As a picker if you make 2 errors (reporting a missing item that's not missing) in a week you will get a warning letter. After the 3rd your fired. 3. MET (Mandatory Extra Time). During Peak and busy seasons you are required to work 50-60hrs a week. 4. Vacation. You can't book vacations or take time off during the month of December. That month is Blackout. 5. Favouritism. You won't get promoted if you're the best. You will if you are friends or know someone in the higher position. Basically don't get your hopes up. After 2 years am still picking.,Current Employee,,"Jan. 7, 2023"
+empReview_72857298,It's Good but not a Career,3.0,Amazon,positive,error,error,They care about the Employees than the Work,Raise the Pay rate will be much better,Current Employee,,"Jan. 21, 2023"
+empReview_72390120,Everything was great,5.0,Amazon,neutral,neutral,neutral,the benefits and good pay,well nothing really except some icks here and there,"Former Employee, less than 1 year","Brampton, ON","Jan. 6, 2023"
+empReview_72848545,Warehouse Jobs,2.0,Amazon,neutral,neutral,neutral,Regular and long shifts. No hours were reduced. 10 hours on a regular basis per day,Discriminating environment and constant scrutiny over rating per hour.,Former Employee,"Richmond, BC","Jan. 21, 2023"
+empReview_72833597,Review,3.0,Amazon,positive,negative,neutral,Good team in term of work Good Benefit,Easily impacted by the company's decision.,Former Employee,"Toronto, ON","Jan. 20, 2023"
+empReview_72343609,Good Workplace`,5.0,Amazon,positive,positive,neutral,Good Team Good Benefits and Pay,Hours/days may vary depending on your shift and seniority,"Current Employee, more than 1 year","Quebec, QC","Jan. 5, 2023"
+empReview_72216731,3rd Month at Amazon!!!,4.0,Amazon,positive,error,error,- There are a lot of resources to help you out - Team is really supportive - Obviously high compensation,- Oncall is a very stressful week,"Current Employee, less than 1 year","Vancouver, BC","Dec. 30, 2022"
+empReview_72191987,Good working environment,4.0,Amazon,neutral,neutral,neutral,"Friendly environment, flexible shifts, good benefits","Stressful work, repetitive work, long hours if full time",Former Employee,,"Dec. 29, 2022"
+empReview_72571604,Working at Amazon,3.0,Amazon,neutral,neutral,neutral,3 days off per week Enough working hours Overtime hours Good health benefits,Low wage Long working hours Heavy work under pressure and stress,"Former Employee, more than 1 year","Westminster, BC","Jan. 12, 2023"
+empReview_72174685,Great Team and Great Culture,5.0,Amazon,positive,positive,positive,Great team Excellent training Culture contributes to achieving goals,There is a lot of information to consume.,"Current Employee, less than 1 year","Vancouver, BC","Dec. 28, 2022"
+empReview_73258002,Nope,1.0,Amazon,negative,negative,negative,I can't think of a single Pro,Everything. The managers like to work through their employees rather than work with or for their employees. Meaning they don't care how the job gets done as long as YOU do it and not them. Not one single person will raise their finger to help. All they are about are making sure their metrics are good. You are just a number to them,"Former Employee, less than 1 year",,"Feb. 2, 2023"
+empReview_72165147,Amazon MBO,4.0,Amazon,positive,neutral,positive,Job security versatile incentives Scope for growth Individuality,No ot for extra hours,"Current Employee, more than 3 years",,"Dec. 28, 2022"
+empReview_72167987,Day 1,4.0,Amazon,positive,error,positive,You are always learning and everyone is pushing you to learn and to thrive. I have read multiple reviews about people saying that they work with people that their only job is to remind you the leadership principles. It's not totally true and not totally false. People I work with remind me about the leadership principles to discuss ideas and not the people. My coworkers are very nice and very available. I love working here and I think your experience varies a lot depending on which team you are working on.,You will have weeks where you will be working overtime and you will have to talk with multiple teams but it will only make you learn faster. If you are not able to fight for your point of view or if you do but can't accept going against what you think is the best course of action then this job may not be for you.,"Current Employee, less than 1 year","Montreal, QC","Dec. 28, 2022"
+empReview_72441032,Does not attract the best talent anymore,3.0,Amazon,negative,negative,negative,"- Compensation - Lots of teams, roles, locations to chose from - Freedom of choosing Tech Stack",- PIP culture causes Anxiety. - Does not attract the best talent in the industry anymore. - Lots of development managers from non/less technical background dropping quality of engineering leadership.,"Current Employee, more than 10 years","Vancouver, BC","Jan. 9, 2023"
+empReview_72151206,really good company to work at,5.0,Amazon,neutral,neutral,neutral,"has bananas to eat, lool",a little bit stressful but overall not bad,Former Employee,,"Dec. 27, 2022"
+empReview_72502995,HR,3.0,Amazon,neutral,neutral,neutral,Amazon has growth if your willing invest time and energy in it,Too much pressure and fast paced,Current Employee,"Ottawa, ON","Jan. 10, 2023"
+empReview_71640050,Good place to work,4.0,Amazon,neutral,neutral,neutral,Benefits and good pay + vacations,"Long hours , stressful , high pressure",Current Employee,"Ottawa, ON","Dec. 5, 2022"
+empReview_71982621,Great Place to Work for Ambitious Developers,3.0,Amazon,neutral,error,neutral,- Good compensation - Lots of room to grow,- Lots of work - High expectations - Constant pressure to deliver,"Current Employee, more than 1 year","Toronto, ON","Dec. 19, 2022"
+empReview_71597282,Not bad,5.0,Amazon,neutral,neutral,neutral,Best paying jobs out there,Makes you work lots of hours,Current Employee,,"Dec. 3, 2022"
+empReview_71609230,Ops,5.0,Amazon,positive,positive,positive,"Good money, lots of leadership exp","Work life balance, 24/7 operations","Current Employee, more than 3 years","Toronto, ON","Dec. 4, 2022"
+empReview_72413704,Meh,1.0,Amazon,negative,negative,negative,Drive alone throughout the day,"Treat you like dogs, no real benefits.","Former Employee, less than 1 year","Calgary, AB","Jan. 7, 2023"
+empReview_71582293,Positive workplace,4.0,Amazon,positive,error,positive,Opportunity for growth Lots of activities Good work atmosphere,Long shifts Mandatory overtime during December,Current Employee,,"Dec. 3, 2022"
+empReview_71590894,Salary,4.0,Amazon,positive,positive,negative,Amazon offers very good benefits,It can be very fast paced and stressful,"Current Employee, more than 1 year","Toronto, ON","Dec. 3, 2022"
+empReview_71918939,Meh,3.0,Amazon,neutral,neutral,neutral,- Low barrier to entry for salary,- Low WLB - Long hours - Managers will ping after 5pm,Current Employee,"Vancouver, BC","Dec. 16, 2022"
+empReview_71531502,"Fun, engaging, and peculiar!",5.0,Amazon,positive,positive,positive,"- Engagement activities - Good benefits and compensation - Great atmosphere - Helpful teams - peculiar culture, in a good way!","- the work is tough for AA's, but we do try to reward on a consistent basis for their hard work","Current Employee, less than 1 year","London, ON","Dec. 1, 2022"
+empReview_71540101,Being a UX Designer at Amazon,4.0,Amazon,positive,positive,positive,-Incredible professional and personal development opportunities. -High calibre people and learning. -Gain experience in the business value of design.,-Design is not valued the same across organizations -Find a design-centric org & team -Find a manager that will endorse you!,"Former Employee, more than 5 years","Vancouver, BC","Dec. 1, 2022"
+empReview_71518602,Amazing place,5.0,Amazon,positive,positive,positive,* Gain new knowledge everyday * Amazing teammates * Amazing managers * Non-AWS oncalls are not so crazy as it is usually described * Immigration assistance,* Some amount of legacy code,"Current Employee, less than 1 year",,"Nov. 30, 2022"
+empReview_71519702,Great Experience!,5.0,Amazon,positive,error,positive,Amount of resources for career growth. Work flexibility. Problems are really interesting and engaging. I am fortunate to land with good manger. Great equipment and resources for doing the job right.,"Amount of information to absorb in first three months. Health plan is OK, I used to pay nothing for medicine, now it is not fully covered.","Current Employee, less than 1 year","Vancouver, BC","Nov. 30, 2022"
+empReview_71477020,Development of software,5.0,Amazon,positive,positive,positive,great culture and work ethics,Internal career growth takes time,"Former Employee, less than 1 year",,"Nov. 29, 2022"
+empReview_71481697,"At 3 months mark, I can still say I made the right decision choosing Amazon",5.0,Amazon,positive,positive,positive,"- Real Autonomy on individual and team level: each team here ""owns"" something and is independent / empowered to make decisions. - Full CI/CD: manual change management is limited to a handful of things, which frees u managers to focus on what matters instead of managing approvals and signoffs - Leadership principles in action: Amazon is one of the companies that walk the talk. LPs are embedded in many things. I personally identify with most of the LPs so it's amazing that I can bring my whole self to work and know that it will be welcomed - Flex hours: aside from meetings, I get to set my own schedule. This is very helpful in getting better work-life harmony - Respect: oh yes. In my team it is expected that people have lives outside work so everyone respects everyone's time, and working overtime is never discussed.","Well this one is not specific about Amazon, but the role itself even elsewhere: one of the duties of devops teams is to maintain the code they write, which means being oncall every few weeks. It can be stressful to be paged in the middle of the night, but it is a part of SDM's life I guess.","Current Employee, less than 1 year","Toronto, ON","Nov. 29, 2022"
+empReview_71482002,A Great Environment for Growth,5.0,Amazon,neutral,neutral,neutral,- much room for opportunity and there is much knowledge to be learned and shared - sense of teamwork and clear communication to deliver results,- can be hectic and stressful - managers will always be changing orders and directives during the day,Former Employee,,"Nov. 29, 2022"
+empReview_71483520,Friendly colleges and managers,5.0,Amazon,neutral,neutral,neutral,1. Benefits. 2. Time off and vacation options 3. Nice cafeteria 4. Work lifer balance,Little room to go for higher positions.,"Current Employee, more than 1 year",,"Nov. 29, 2022"
+empReview_71484485,tech,5.0,Amazon,neutral,neutral,neutral,good job. very hands on,"busy, lots of overtime and travelling","Current Employee, more than 5 years","Toronto, ON","Nov. 29, 2022"
+empReview_71484101,"Super hectic, but worth it",4.0,Amazon,positive,positive,positive,- Great learning experience. Working for amazon would be a career defining moment for you. - Good onboarding process. Very detailed and through - Everything in amazon is very prescriptive. You have a defined process for everything.,"- Super busy. It has been 3 months, but I still haven't gotten the time to complete my onboarding trainings. - Work life balance is not given importance. But again, they don't expect you to work till late. It's just a lot of work. But if you can manage to do it faster, then you can maintain the balance. - No perks/frills/ fun benefits like the other FAANG companies.","Current Employee, less than 1 year",,"Nov. 29, 2022"
+empReview_71823515,Good job for Starters,3.0,Amazon,negative,positive,error,No experience needed. Training is done from day 1,Workplace is favorable by peers and friends. Too much favoritism taking place within the workplace,Current Employee,,"Dec. 13, 2022"
+empReview_71827106,Amazon fc,3.0,Amazon,positive,neutral,neutral,"Benefit, 10 hours a day",Physical demanding low income differentiation,"Current Employee, less than 1 year","Vancouver, BC","Dec. 13, 2022"
+empReview_71827106,Amazon fc,3.0,Amazon,positive,neutral,neutral,"Benefit, 10 hours a day",Physical demanding low income differentiation,"Current Employee, less than 1 year","Vancouver, BC","Dec. 13, 2022"
+empReview_71423950,may not be everyone,5.0,Amazon,neutral,neutral,neutral,big company with a lot to learn,fast pace not for everyone,Former Employee,,"Nov. 27, 2022"
+empReview_71447235,Every Day is Day 1!,5.0,Amazon,positive,positive,positive,"Tons of really smart people, fast-paced and exciting work, with something new to learn and discover every day.","Pace can be a bit overwhelming if you aren't used to it, and this can negatively impact work-life balance. One needs to be deliberate about finding the right balance. You are also expected to hit the ground running, which can feel like drinking from the hose pipe. Dont fret though! Give yourself a few months to settle in and get up to speed.","Current Employee, less than 1 year","Toronto, ON","Nov. 28, 2022"
+empReview_72280835,Good compensation and lots of pressure,1.0,Amazon,negative,positive,positive,- Compensation is good - Good for new graduates to learn and grow,"- Steep learning curve - Lots of pressure - Lots of oncall - Poor work life balance - Lots of operations, an SE role became an SRE - Terrible infrastructure and tooling for engineers","Current Employee, less than 1 year","Vancouver, BC","Jan. 3, 2023"
+empReview_72241129,Good Environment,1.0,Amazon,negative,error,positive,Good workplace environment to work,No Loyality or Seniority for workers,"Former Employee, more than 3 years","Nisku, AB","Jan. 1, 2023"
+empReview_71407690,Great Company to learn and grow at the cost of work life balance,4.0,Amazon,neutral,positive,positive,Opportunity to learn Work on latest technology Autonomy High focus on Diversity and inclusion,Culture - Work Life Balance,"Former Employee, more than 1 year",,"Nov. 26, 2022"
+empReview_71422339,Permanent Work,4.0,Amazon,positive,positive,positive,Good environment for working and salary,Fewer breaks need more in between breaks,Former Employee,,"Nov. 27, 2022"
+empReview_71778176,"i am just part of 100,000 people",3.0,Amazon,neutral,neutral,neutral,"big name, everyone knows amazon","not sure about my career growth in the future,",Former Employee,,"Dec. 11, 2022"
+empReview_71753115,review,3.0,Amazon,neutral,neutral,neutral,good working experience to be honest,it is hard to say.,Former Employee,,"Dec. 9, 2022"
+empReview_71754450,Good,3.0,Amazon,neutral,neutral,neutral,"Good pay, good remote work",Too much workload sometimes but not too bad,Current Employee,,"Dec. 9, 2022"
+empReview_71154214,Good company culture,4.0,Amazon,neutral,neutral,neutral,Learning and career growth opportunities,Work life balance is sometimes difficult,"Current Employee, more than 1 year",,"Nov. 16, 2022"
+empReview_71154257,Overtime pay is nice,4.0,Amazon,neutral,neutral,neutral,"Overtime, benefits, clean work environment","On feet all day, bathrooms are far away","Current Employee, more than 1 year",,"Nov. 16, 2022"
+empReview_71178928,not sure about these questions I just started,4.0,Amazon,neutral,neutral,neutral,Pretty good for your resume. Pay is nice,Heard the work life balance is not too great,"Current Employee, less than 1 year","Vancouver, BC","Nov. 17, 2022"
+empReview_71187189,Nice,4.0,Amazon,neutral,neutral,neutral,Better than expected work life balance,Lots of operational burden to deal with,"Current Employee, more than 1 year",,"Nov. 17, 2022"
+empReview_71542122,Long hours,3.0,Amazon,positive,neutral,neutral,The pay is decent especially if you do overtime,The hours are quite long.,"Former Employee, less than 1 year",,"Dec. 1, 2022"
+empReview_71145587,Great environment for growth,5.0,Amazon,neutral,neutral,neutral,Lots of opportunities and different departments,Work life balance is sometimes off,"Current Employee, more than 3 years",,"Nov. 16, 2022"
+empReview_71114898,Math flow,4.0,Amazon,positive,positive,positive,High pay and good enviornment,Nothing Everything is good I like to work,"Current Employee, less than 1 year","Ajax, ON","Nov. 15, 2022"
+empReview_71135268,Great people to work with,4.0,Amazon,positive,positive,error,Working with incredibly smart people. If you are passionate and eager to learn from peers this is definitely pros. Bias in actions. Emphasis on customer and working backwards. Opportunities for internal transfer.,Oncall can be a bit taxing and can harm the work-life balance depending on the issue level that the team is experiencing.,"Current Employee, more than 1 year","Vancouver, BC","Nov. 16, 2022"
+empReview_71095152,Amazon warehouse job,5.0,Amazon,neutral,neutral,neutral,Work culture is good Salary is best Benefits,Long working hours during night shift,Former Employee,,"Nov. 15, 2022"
+empReview_72051462,would not recommend,1.0,Amazon,negative,negative,negative,4 day work week was nice,everything else about the job,"Former Employee, less than 1 year","Delta, BC","Dec. 21, 2022"
+empReview_71243955,Ex-Amazon Ops Manager-I,2.0,Amazon,negative,error,error,Great Benefits Great Compensation Great training for preparing for the job,10 Hour shifts Physically Taxing Extremely toxic work culture Unfair performance reviews,"Former Employee, less than 1 year",,"Nov. 20, 2022"
+empReview_70815660,Heavy work,4.0,Amazon,positive,negative,negative,Repetitive work for long hours. After year we get lot of neck pain,Lot of work and repetitive,"Former Employee, more than 1 year",,"Nov. 5, 2022"
+empReview_70816988,Healthy warehouse culture,4.0,Amazon,positive,positive,positive,Good behaviour good management Reward culture Could get promoted,When in hurry to sum up operation break safety guidelines,"Current Employee, less than 1 year","Toronto, ON","Nov. 5, 2022"
+empReview_70792897,Great working environment,4.0,Amazon,neutral,neutral,neutral,"Great place to work, very stimulating and fast paced","Pay is less than what I expect for the work I do, my experience and skills",Current Employee,,"Nov. 4, 2022"
+empReview_71214401,Good,3.0,Amazon,neutral,neutral,neutral,"Safety, friendly staff and wellness","Limited kinds of work, and no vision for scaling at work",Current Employee,,"Nov. 18, 2022"
+empReview_70750289,Good,5.0,Amazon,neutral,neutral,neutral,"Good company, good pay, good perks",None that i can yhink of oncall maybe,Current Employee,,"Nov. 3, 2022"
+empReview_70758340,Dan,5.0,Amazon,positive,positive,positive,This job is excellent I love it,The queens are always good,"Current Employee, more than 8 years","Welland, ON","Nov. 3, 2022"
+empReview_70764008,Great,5.0,Amazon,neutral,neutral,neutral,Flexibility & Team are great,Wage is a bit on the low end,Current Employee,,"Nov. 3, 2022"
+empReview_70737627,Dynamic and Fast Pace,4.0,Amazon,positive,error,positive,- Learning opportunities - exposure to various functions - Growth - Bonus,- Schedule Flexibility - Base Pay - lack of remote work,Current Employee,,"Nov. 3, 2022"
+empReview_70758125,Good Place for learning,4.0,Amazon,positive,positive,positive,Multiple opportunities to learn and upgrade yourself. Flexible Schedules. Focus on employee welfare.,It might become a bit hectic in the beginning if you are new to cloud.,"Current Employee, less than 1 year","Toronto, ON","Nov. 3, 2022"
+empReview_70552469,Experience,5.0,Amazon,neutral,neutral,neutral,Got so much to learn and improve my skills,Slow progress in some aspects,Current Employee,,"Oct. 27, 2022"
+empReview_70955027,Toxic work place,2.0,Amazon,negative,neutral,negative,"Pay, benefits, are the only pros I can think of.","Life balance, toxic work place, favoritism, racism, sexism, bullying, do not follow the leadership principles, upper management have no idea what they are doing. Management used DEI as a game to show the public how well diversified they are, when in fact they are not. They are racist, and favor those with the same skin color and culture as them, which created a bunch of clicks and people plotting, lying against those they don’t like to get them fired.","Current Employee, more than 1 year",II in Coteau,"Nov. 10, 2022"
+empReview_71578633,Labour and legislation,1.0,Amazon,negative,error,error,It was pretty easy money,There were so many rules to follow,"Former Employee, less than 1 year",,"Dec. 2, 2022"
+empReview_71003235,…,2.0,Amazon,neutral,neutral,neutral,good pay okay co workers paid time off easy to take sick days,repetitive management long hours tiring,Current Employee,,"Nov. 11, 2022"
+empReview_70495446,Great place for students,5.0,Amazon,neutral,neutral,neutral,bonus pay Safe Fun Flexible,Sometime work get super busy and tiring,Former Employee,,"Oct. 25, 2022"
+empReview_70512899,lead,5.0,Amazon,neutral,neutral,neutral,new skills growth new connections,stress sometimes less opportunities long hours,"Current Employee, less than 1 year",,"Oct. 26, 2022"
+empReview_70479793,Support Engineer,5.0,Amazon,neutral,neutral,neutral,Learning Inventing Teaching Working Development,Stressful Workload Night Shift shift rotating,Current Employee,"Montreal, QC","Oct. 25, 2022"
+empReview_70434756,Ok place,5.0,Amazon,neutral,neutral,neutral,Chill not too bad ok,Bad not good not great,Current Employee,"Ottawa, ON","Oct. 24, 2022"
+empReview_70455009,Overall decent place to work,4.0,Amazon,positive,positive,positive,Good place to work. Management team is fantastic..,The only negatives are that it’s a very fast-paced and high-pressure environments,"Current Employee, less than 1 year","Vancouver, BC","Oct. 24, 2022"
+empReview_70837405,A lot of works,3.0,Amazon,negative,error,error,"Salary, professional, Good job, good experience","bad conditions, unhumain conditions, a lot of work","Current Employee, less than 1 year","Montreal, QC","Nov. 6, 2022"
+empReview_71445519,would not reccomend,1.0,Amazon,neutral,neutral,neutral,having a full time job,"unreasonable wok expectations, little to no bathroom breaks, toxic culture",Former Employee,,"Nov. 28, 2022"
+empReview_70414139,Good overall,4.0,Amazon,neutral,neutral,neutral,"Company has good benefits. Their hiring policies are very inclusive, and very open to accommodations. Safe environment.",Long time standing/walking if you are not comfortable with it.,Current Employee,,"Oct. 23, 2022"
+empReview_70424565,Standard employer,4.0,Amazon,positive,neutral,neutral,Environment that encourage to deliver faster and take ownership. Good leadership.,Over writing culture that not usually benefit back. Lack of integrated user experience with unified vision Limited benefits and standard compensation package (not high and not low),"Current Employee, more than 3 years",,"Oct. 23, 2022"
+empReview_70829582,"Long hours, continuously changing direction",3.0,Amazon,negative,negative,negative,Above average Salary and work from home options,Few holidays Long hours Poor career development,"Current Employee, more than 1 year",,"Nov. 6, 2022"
+empReview_70833742,Good place to work for career hungry people,3.0,Amazon,neutral,error,positive,Good opportunity to grow within Amazon,Will squeeze every single drop for what is not even paid to you. Get ready to be trampled as you grow.,"Current Employee, more than 3 years","Mississauga, ON","Nov. 6, 2022"
+empReview_70397182,"Great benefits, wonderful opportunities to learn.",5.0,Amazon,positive,positive,positive,1. The role provides great benefits and pay. 2. Great learning resources provided.,"For some, the work might be cumbersome.","Current Employee, more than 3 years","Toronto, ON","Oct. 22, 2022"
+empReview_70394068,great experience,4.0,Amazon,positive,positive,positive,a lot of opportunities to grow a lot of help from hr and managers and trainers for further branching of other processes,"heavy labour, and very demanding due to high through-put environment",Current Employee,,"Oct. 22, 2022"
+empReview_70816174,Stressfull,3.0,Amazon,neutral,neutral,neutral,Great supportive team. Variety of projects,Too much work and too stressfull,Current Employee,,"Nov. 5, 2022"
+empReview_70377572,Good,5.0,Amazon,positive,positive,positive,"Fun, great culture, caring team, interesting work","Remote, Canada, Internship, Vancouver, Online","Former Employee, less than 1 year",,"Oct. 21, 2022"
+empReview_70372956,Fast paced work,4.0,Amazon,neutral,neutral,neutral,Very organized machinery and scanners for picking and packing.,Difficult to keep up with speed times and minimal errors,"Former Employee, less than 1 year",,"Oct. 21, 2022"
+empReview_70776918,Okay for a job,3.0,Amazon,positive,positive,negative,Don't need to talk to anyone,Boring and you work like robot,"Former Employee, less than 1 year",,"Nov. 4, 2022"
+empReview_70781860,Ignorable,3.0,Amazon,negative,error,error,Free lunches are great for me,I ate too many free lunches,"Former Employee, less than 1 year",,"Nov. 4, 2022"
+empReview_70787640,Bad upper management,3.0,Amazon,negative,negative,negative,Good compensation; Good benefits Benefits starts day 1,Hard to get promotion; based more on if the manager likes you; favoritisme is there; doesnot matter if are more capable or not or even more qualified or not.,"Current Employee, more than 1 year",,"Nov. 4, 2022"
+empReview_70354894,Delivery driver,5.0,Amazon,neutral,neutral,neutral,Flexible great pay weekends off,Too many stops and parcels,"Current Employee, more than 1 year",,"Oct. 20, 2022"
+empReview_71382626,Kamloops warehouse has no idea what they are doing,1.0,Amazon,neutral,neutral,neutral,If you like rap music from India blasting all day this job is for or if you like running parcels to houses nonstop or you get in trouble work here as well,"Language barrier, 1 day training by someone who has beeen there a week then your on your own. Lifting 2 person bed frames by yourself strait up driveways","Current Employee, less than 1 year","Kamloops, BC","Nov. 25, 2022"
+empReview_70340663,Recommended for short time,4.0,Amazon,neutral,neutral,neutral,Flexibility stability diversity Reasonable compensation,Stressful and gets overwhelming quickly,Current Employee,,"Oct. 20, 2022"
+empReview_70352338,first work,4.0,Amazon,neutral,neutral,neutral,good team management are very helpful bonuses even as a partime,politics boring sometime hardwork stand a lot,Current Employee,,"Oct. 20, 2022"
+empReview_70744521,No work life balance,3.0,Amazon,neutral,neutral,neutral,Good benefits Good and flexible shifts,No balance life / work HR people are not helpful,Current Employee,"Ottawa, ON","Nov. 3, 2022"
+empReview_70292601,Warehouse Work,5.0,Amazon,positive,positive,positive,"Amazing benefits once you’re permanent, amazing growth opportunity.","You have to work like a machine every hour’s productivity is monitored and notified to the employee even if the production target are met. It’s very annoying sometimes when the PAs are onto every action you do, even if you are constantly lifting heavy boxes you cannot talk to your co-worker more than a minute","Current Employee, less than 1 year","Brampton, ON","Oct. 19, 2022"
+empReview_70314656,Good employer,5.0,Amazon,positive,positive,positive,"Great salary , benefits, diversity, good management.",Physically taxing if not healthy,"Former Employee, less than 1 year","Brampton, ON","Oct. 19, 2022"
+empReview_70202671,Associate,5.0,Amazon,neutral,neutral,neutral,"Benefits and wage friends, bala",A lot of work in a short amount,Former Employee,,"Oct. 16, 2022"
+empReview_70677157,Toxic environment,2.0,Amazon,negative,negative,negative,-You get your hands dirty! - Great benefits,-Favouritism - Certain race taking over the warehouse! - micromanaged You are just a number,"Former Employee, more than 1 year","Calgary, AB","Nov. 1, 2022"
+empReview_70637914,No job security,3.0,Amazon,negative,negative,negative,"Great learning opportunities, a lot of biases and favouritism at play.","No job security, no work - life balance, no career growth","Former Employee, more than 3 years",,"Oct. 31, 2022"
+empReview_70652625,Amazon Review,3.0,Amazon,neutral,neutral,neutral,"Big tech, Good reputation, Learning","The vibe isn't it, I wouldn't work here longterm.",Current Employee,"London, ON","Oct. 31, 2022"
+empReview_70185910,hr coordinator,5.0,Amazon,positive,positive,positive,Long shifts for 4 days,Short breaks in long shifts,"Current Employee, less than 1 year",,"Oct. 16, 2022"
+empReview_70652534,To good to be true,2.0,Amazon,neutral,neutral,neutral,Many real professionals around you,"on-calls duties, toxic environment, no work/life balance",Current Employee,"Vancouver, BC","Oct. 31, 2022"
+empReview_70134694,One of the better giants,5.0,Amazon,positive,positive,positive,- Great Company Culture - Empowers Diversity - Interesting Projects with high impact - Full flexibility and work from home - Good work/life balance,- Too many steps on the corporate ladder (managers and managers of managers and...) - Tedious promotion process,"Current Employee, more than 3 years","Vancouver, BC","Oct. 13, 2022"
+empReview_70157144,Loving it so far (2 months in),5.0,Amazon,positive,positive,positive,Great culture of learning and collaboration Documentation exists for everything you might need to know Leadership principles are part of everyday work and are actually part of the way the company operates Compensation is excellent,Information overload when you start Shadowing opportunities when learning can be tough to find unless you are dedicated to finding them,"Current Employee, less than 1 year","Toronto, ON","Oct. 14, 2022"
+empReview_71220900,Bad company to work for,1.0,Amazon,negative,negative,negative,Free coffee and free t-shirt on special occasions.,"Labor track, quality track and warnings for stop working for more than 5 mins.","Former Employee, more than 1 year",,"Nov. 19, 2022"
+empReview_70570089,Great,3.0,Amazon,neutral,neutral,neutral,Best environment of working here.,Sometime job is stressful and overwhelming,Current Employee,,"Oct. 27, 2022"
+empReview_70086078,Great Job,5.0,Amazon,positive,positive,neutral,The benefits are great for a warehouse job and the only requirement is 12th standard.,10 hours shift feels very long.,Current Employee,"Delta, BC","Oct. 12, 2022"
+empReview_70093343,Good WLB,5.0,Amazon,positive,positive,positive,"I am in payments org, and the WLB is really good.",Projects go a bit slow so it may not be as exciting for people what want to achieve more.,"Former Employee, more than 3 years","Greensboro, NC","Oct. 13, 2022"
+empReview_70125539,supporting,5.0,Amazon,positive,positive,positive,Amazon has the culture in which poeple support each other very well.,Orgnazition changes fast sometimes and it causes you need to change your role internally.,"Former Employee, less than 1 year",,"Oct. 13, 2022"
+empReview_70103215,PA,4.0,Amazon,negative,error,error,Lots of logistics trainings onsite.,Loads of work not enough people,Former Employee,,"Oct. 13, 2022"
+empReview_70118636,SDE,4.0,Amazon,neutral,neutral,neutral,"Fast-grow, chance to do work in a giant system","Very busy, a lot of challenging and ambigiuos work",Current Employee,,"Oct. 13, 2022"
+empReview_70532417,Picker,3.0,Amazon,neutral,neutral,neutral,Good pay for easy work,"Long hours, some annoying floor managers",Current Employee,"Mississauga, ON","Oct. 26, 2022"
+empReview_70042559,Great One,5.0,Amazon,positive,positive,positive,Best working area for entrepreneurs.,Take too much time and health issues,"Former Employee, less than 1 year","Montreal, QC","Oct. 11, 2022"
+empReview_70082842,L1 associate,5.0,Amazon,negative,negative,negative,"Good pay, Good benefits, New friends
+Good starter job","Long hours
+Favouritism
+Physically demanding
+ Not good for long term based on location",Current Employee,,"Oct. 12, 2022"
+empReview_70082845,Good place,5.0,Amazon,neutral,neutral,neutral,"Good place to learn. 
+Everyday there is new things",If you're comfortable working nights,Current Employee,,"Oct. 12, 2022"
+empReview_71182267,alot of work,1.0,Amazon,negative,positive,negative,great benefits and school accomodation,pay is less than the work done,"Current Employee, more than 1 year","Montreal, QC","Nov. 17, 2022"
+empReview_69942205,Working as picker,4.0,Amazon,positive,positive,positive,Good pay and benefits. Safe work environment,Long shift hours bit hot in the warehouse when summer.,"Current Employee, more than 1 year","Calgary, AB","Oct. 9, 2022"
+empReview_70413975,Work environment,3.0,Amazon,neutral,neutral,neutral,"HR is very supportive, hourly rate is higher than other",They just take associate as a robot not human being,"Current Employee, more than 1 year",,"Oct. 23, 2022"
+empReview_70419478,amazon delivery driver,3.0,Amazon,positive,positive,positive,"driving, being outside, working out","bad weither, bad drivers, peak season",Current Employee,"Laval, QC","Oct. 23, 2022"
+empReview_69903910,best company to grow,5.0,Amazon,positive,positive,positive,"Growth , benefits , Attitude towards employee","Nothing , best all over","Current Employee, more than 1 year","Toronto, ON","Oct. 7, 2022"
+empReview_69905049,Best projects to work,5.0,Amazon,positive,positive,positive,"Great projects
+High speed 
+Best teams","Demanding
+Not easy to get promoted","Current Employee, more than 1 year",,"Oct. 7, 2022"
+empReview_70398859,Good job,3.0,Amazon,positive,negative,error,Lots of work great people friendly,Lots of immigrants staff aren’t very nice sometimes,Current Employee,,"Oct. 22, 2022"
+empReview_70387972,Difficult Promotion Path with Amazon,3.0,Amazon,positive,positive,positive,Amazon is good when it comes to paying wages or for young generation recruitment.,"However, recruitment is screwed up when it comes to matching skills with the role or promotion which makes candidates stuck with white badge if not having blue badge, internal recruitment not possible so easily. Its more suitable for young but for people with diversified experienced come with any entry level post, their past experience is not considered useful for any relevant job at all with no promotion path ahead unless there is fresh recuirtment for any position.","Former Employee, less than 1 year",,"Oct. 21, 2022"
+empReview_69856783,Nice,5.0,Amazon,positive,positive,positive,Safe working environment and good salary,Targets are difficult to achieve,Former Employee,,"Oct. 6, 2022"
+empReview_69859172,5+years experiences manufacturing line,5.0,Amazon,positive,positive,positive,good benefit and atmosphere satisfaction for work,nothing to any problem and safety is primer things,"Current Employee, more than 3 years","Hamilton, ON","Oct. 6, 2022"
+empReview_69837509,Great place to evolve,4.0,Amazon,positive,positive,positive,"Stress free work environment
+Senior Leadership
+Benefits",The cons that come with every big business that has overgrown,"Current Employee, more than 3 years","Mississauga, ON","Oct. 6, 2022"
+empReview_70351271,Fine,3.0,Amazon,neutral,neutral,neutral,It keeps you moving alot,It tends i have some long hours,Current Employee,"Toronto, ON","Oct. 20, 2022"
+empReview_69776108,good place to work,5.0,Amazon,neutral,neutral,neutral,good wokring culture and friendly people to work with.,nothing major in my experience,Current Employee,,"Oct. 4, 2022"
+empReview_69804074,A big company that works like a small one,5.0,Amazon,positive,positive,positive,"I come from a startup background and the agility, team spirit and motivation of each person on the AWS Startup team is truly energizing. It's hard to believe but the talented people I met changed my vision of this company!",Lots of in-house tools to get to grips with. This is probably a negative side effect of the agility of thousands of people who are encouraged to create the tools their team needs.,"Current Employee, less than 1 year","Montreal, QC","Oct. 5, 2022"
+empReview_70958599,Trash,1.0,Amazon,neutral,neutral,neutral,Weekly pay is a benefit,Everything was terrible Nothing is good about working at the fulfilment centre,Former Employee,,"Nov. 10, 2022"
+empReview_70317120,A gear in the machine,3.0,Amazon,negative,negative,positive,4 day week is good when you get the right days off.,most things - for the most part - inexperienced managers running things,"Current Employee, less than 1 year","Hamilton, ON","Oct. 19, 2022"
+empReview_69745339,na,5.0,Amazon,neutral,neutral,neutral,"good, fair, ok, mediocre, basic","pay, time, freedom, growth, support",Current Employee,,"Oct. 4, 2022"
+empReview_69757110,Full Time SDE,5.0,Amazon,neutral,neutral,neutral,It was a great place to work there,No significant cons for now,Current Employee,,"Oct. 4, 2022"
+empReview_69761565,stocking associate,5.0,Amazon,positive,positive,positive,"This is best Friendly and safe place to work, paid day off, voluntary day off and holiday pay day off is one the best things they have.",long hours shift and not flexible shift,Former Employee,,"Oct. 4, 2022"
+empReview_69723016,Best company Ever,5.0,Amazon,neutral,neutral,neutral,"Safe and super clean also very organized 
+We can grow together",Promotion system need little bit improvement,"Current Employee, more than 3 years",,"Oct. 3, 2022"
+empReview_70866116,Senior Human resource assistant,1.0,Amazon,negative,positive,negative,"good work experience, attain skills",flimsy leaders. sketchy shifts. unsatisfactory work environment,"Former Employee, more than 1 year","Tsawwassen, BC","Nov. 7, 2022"
+empReview_69609872,Good work,5.0,Amazon,positive,positive,positive,"Good work,
+Good pay
+Good timings
+Good management","Too far
+Heavy work sometimes
+Lack of cleanliness","Current Employee, less than 1 year",,"Sep. 29, 2022"
+empReview_69595519,Good place to work,4.0,Amazon,neutral,neutral,neutral,Good benefits and lots of opportunities to upgrade your dream.,Too far from my place,Former Employee,,"Sep. 29, 2022"
+empReview_69614234,Amazon,4.0,Amazon,neutral,neutral,neutral,"Good environment, good co workers","Low wages, difficult work and conditions",Current Employee,,"Sep. 29, 2022"
+empReview_70091920,salary,3.0,Amazon,negative,positive,negative,Fair company. 4 days on 3 days off,"some supervisors 
+ only care about the welfare of their friends","Former Employee, less than 1 year","Calgary, AB","Oct. 12, 2022"
+empReview_69531884,Amazons internal team culture is gaining more of a work-life balance,5.0,Amazon,positive,positive,positive,"Good pay
+Talent Retention is a key goal in the company
+A lot can be learnt very quickly","High-velocity culture
+On-call can be pretty stressful and is 24/7","Current Employee, less than 1 year","Vancouver, BC","Sep. 27, 2022"
+empReview_69542901,"Great culture and opportunities, but a lot of turnover",4.0,Amazon,positive,positive,positive,"Great culture
+Working with many talented people
+Learning and using the best technologies on the market",A lot of turnover sometimes prevents from achieving a collective goal,"Current Employee, less than 1 year","Toronto, ON","Sep. 28, 2022"
+empReview_69551685,Great program for new grads,4.0,Amazon,positive,positive,positive,Learn how a big organization operated and how to sell to clients.,"Expectation / grading for assignments were unclear and vague. The guides or ""instructors"" had no experience ever leading or managing 'students', most were prior AAEs.","Former Employee, less than 1 year",,"Sep. 28, 2022"
+empReview_69973446,Overworked with no overtime pay,3.0,Amazon,negative,error,error,"Stability in employment
+3 days off in the week","Long hours
+Expected to work extra hours without overtime pay
+No rotation between day/night shift
+Popularity contest
+Pay is pathetic","Current Employee, more than 3 years","Toronto, ON","Oct. 10, 2022"
+empReview_70042742,s22,3.0,Amazon,positive,positive,positive,Taking into consideration all of the information you researched in Part 1,uct a search for 10 companies you are interested i,"Former Employee, less than 1 year",,"Oct. 11, 2022"
+empReview_70080869,A mixed bag,3.0,Amazon,negative,positive,positive,"Fast growth trajectory in operations
+Pay is above local market for similar roles in operations
+Stocks, bonus and benefits are very good add ons
+Intake process Values attitude and ideas aligned to business principles over subject matter expertise in operations","Work life balance
+Minimal flexibility in hours and leave 
+Operations does get repetitive and limited in scope unless you are working on regional, corporate projects","Current Employee, more than 1 year","Vancouver, BC","Oct. 12, 2022"
+empReview_69727673,Ok,3.0,Amazon,neutral,neutral,neutral,Finish 20 hrs in 2 shifts,Physical work for 10 hrs a day is hard,Current Employee,,"Oct. 3, 2022"
+empReview_69171218,"Good co-workers, Incapable managers",4.0,Amazon,positive,error,error,Good co-workers who care for each other most of the time. Makes it easier to go to work.,Part time with continuous flex down. Inefficient management and HR team with lots of blatant nepotism,"Current Employee, more than 1 year","Calgary, AB","Sep. 17, 2022"
+empReview_69169172,Good pay and work for warehouse associates,4.0,Amazon,positive,error,error,Awesome team and company culture.,It restricts the part-time hours for certain warehouse positions.,"Former Employee, less than 1 year",,"Sep. 17, 2022"
+empReview_69663176,Good,3.0,Amazon,positive,positive,positive,Good salary and benefits and chances of promoting,Favoritism being driven in FC,"Current Employee, more than 3 years",,"Oct. 1, 2022"
+empReview_69113846,Great experience,5.0,Amazon,positive,error,positive,"Managers are great, helps with team building",No internship opportunities for college students in Canada,Former Employee,,"Sep. 15, 2022"
+empReview_69114717,good company to work at,5.0,Amazon,positive,positive,positive,great afternoon snacks for free,there are too much pip,Current Employee,,"Sep. 15, 2022"
+empReview_69102661,The greatest place to learn and payback,4.0,Amazon,positive,neutral,positive,"It has been Wonderful so far! The team is supportive, the work is VERY fast pace but manageable and I have enough time to relax. 
+ Amazon has been really good and I love working for this organization. 
+The HQ is very great especially the smart house",I wish I had my SA Launch the second week on the job. That session empowered me to do my job.,"Current Employee, less than 1 year","Toronto, ON","Sep. 15, 2022"
+empReview_69604866,Great job,3.0,Amazon,neutral,neutral,neutral,"- Great pay
+- Great benefits
+- Helpful employees","-Long hours
+-Huge workload
+-Not enough motivation or incentives to work faster","Current Employee, more than 1 year",,"Sep. 29, 2022"
+empReview_69032991,Human Resources Coordinator,5.0,Amazon,neutral,neutral,neutral,Comfortable and challenging work everyday.,I would not like to mention any Cons.,"Former Employee, less than 1 year","Brampton, ON","Sep. 14, 2022"
+empReview_69055501,Great place to be,5.0,Amazon,neutral,neutral,neutral,"- Interesting problems to solve 
+- Great opportunities to learn and get experience solving problems on large scale
+- Total compensation and benefits","Too many self-made internal tools. All of them functional, but majority of them are not user friendly and do not help with productivity","Current Employee, less than 1 year","Vancouver, BC","Sep. 14, 2022"
+empReview_68663499,It's good,4.0,Amazon,neutral,neutral,neutral,I can do anything I know how to do a package is one of the best things I can do,I don't have anything to say,Current Employee,,"Sep. 2, 2022"
+empReview_68678432,Amazon Warehouse Associate,4.0,Amazon,positive,positive,positive,"Regular Job
+Flexible Timing
+Good Pay to start with
+4 days a week
+Free Training","Hectic Day to Day
+10 hour shift
+Nothing Much To say","Current Employee, less than 1 year",,"Sep. 3, 2022"
+empReview_68641600,"So far, so good!",5.0,Amazon,positive,positive,positive,"Excellent training, and my corner of AWS understands work-life balance. I've only been here for a couple of months, but it's going well... normally at a big company you've run into all kinds of red flags by now.
+
+Amazon actually believes in and follows its Leadership Principles, and they apply to everyone. This seems like a great way to run a company.","I'm still not convinced ""Strive to be Earth’s Best Employer"" is being applied to the warehouse side of the business.
+
+Joining a big company of this age exposes you to a fire hose of information, it's a lot to take in!","Current Employee, less than 1 year","Toronto, ON","Sep. 2, 2022"
+empReview_68648860,Good place to work,5.0,Amazon,positive,positive,positive,"Lots of Over time , 
+Good benefit . 
+Flexible hours.",company is massively big . can get toxic,"Current Employee, less than 1 year","Toronto, ON","Sep. 2, 2022"
+empReview_68596259,Great place to work for,5.0,Amazon,positive,error,positive,Great culture. Management that truly cares about you and your success. People are kind and respectful. A very diverse community.,Metric based measurements of performance that often leads to trade off performance and customer obsession.,"Current Employee, less than 1 year","Toronto, ON","Sep. 1, 2022"
+empReview_68599239,working at amazon and hiring process,5.0,Amazon,positive,positive,positive,"working here has great perks, so much to learn, better opportunities for growth
+
+the hiring process itself was great but demanding, one technical interview and two interviews with managers, these were behavioural but also technical in the aspect that they focus on Amazon's Leadership principles and ask scenarios
+
+healthy work environment","the hiring took a long time, not wonder its Amazon.","Current Employee, less than 1 year","Toronto, ON","Sep. 1, 2022"
+empReview_68609548,Good,5.0,Amazon,neutral,neutral,neutral,Good place to work at,Standing king periods of time,Current Employee,"Brampton, ON","Sep. 1, 2022"
+empReview_68619537,Great benefits,5.0,Amazon,positive,error,positive,Great benefits for full time employees and there are lots of room to grow.,Must be able to handle the physical demands of the job.,"Current Employee, less than 1 year","Hamilton, ON","Sep. 1, 2022"
+empReview_69900759,Bad work environment,1.0,Amazon,neutral,negative,negative,Easy job you can start as immigrant and the company will not ask for Canadian experience.,Overwhelming job needs physical capabilities. One the long period you will get back and shoulder pain.,"Former Employee, less than 1 year","Brampton, ON","Oct. 7, 2022"
+empReview_68486263,Good place to learn,4.0,Amazon,negative,positive,positive,"Great colleagues, good projects, great place to learn",Stack ranking and managing people out can be brutal,"Current Employee, more than 1 year","Toronto, ON","Aug. 29, 2022"
+empReview_68545197,Good job,4.0,Amazon,positive,positive,positive,Environment is good. And friendly staff,Work load and cleanliness at facility.,"Current Employee, more than 1 year","Bolton, ON","Aug. 31, 2022"
+empReview_69052549,It was alright,3.0,Amazon,neutral,neutral,neutral,There was Lots of learning,There was a competitive work env,Current Employee,,"Sep. 14, 2022"
+empReview_68532479,WareHouse Associate,5.0,Amazon,positive,positive,positive,Good to work for students,"Long stand Working Hours
+Heavy weights","Former Employee, less than 1 year",,"Aug. 30, 2022"
+empReview_69796209,Avoid,1.0,Amazon,negative,negative,negative,Big scale systems. Large salary.,Horrible place. Many lies. Can't trust anyone. Alot of internal only tools. Alot pf support work. Hiring sucks. Promotion sucks,"Current Employee, more than 3 years","Vancouver, BC","Oct. 5, 2022"
+empReview_69040560,Poor management,2.0,Amazon,negative,neutral,neutral,"Good pay and benefits 
+Flexible shifts","no room for growth
+senior management clueless","Former Employee, more than 1 year",,"Sep. 14, 2022"
+empReview_68515374,Awesome Onboarding Process,4.0,Amazon,positive,positive,positive,The onboarding process for new hire are stress-free and absolutely amazing.,Too much information to digest at once.,"Current Employee, less than 1 year",,"Aug. 30, 2022"
+empReview_69006733,Best part is time off,3.0,Amazon,neutral,neutral,neutral,3 days off every week,The workforce is unidentified not inspired neither is the management,"Current Employee, more than 1 year",,"Sep. 13, 2022"
+empReview_68469250,job,5.0,Amazon,positive,positive,positive,It is a very good company,It has its own drawback,"Current Employee, less than 1 year","Vancouver, BC","Aug. 29, 2022"
+empReview_69018660,Stressful,2.0,Amazon,negative,negative,neutral,You get to Engage with associates,"Low pay, horrible management , stressful. Safety is not the priority","Former Employee, more than 1 year",,"Sep. 13, 2022"
+empReview_68920845,Great place,3.0,Amazon,neutral,neutral,neutral,Good total compensation for freshers,A very stressful job initially,"Current Employee, less than 1 year",,"Sep. 10, 2022"
+empReview_69689113,Terrible place,1.0,Amazon,negative,error,error,"Easy repetitive work if you like that, have mini mental health and physical activity breaks - not encouraging or long enough",Poor management Not enough pay too intense on packing number for the day,"Former Employee, less than 1 year","Brampton, ON","Oct. 2, 2022"
+empReview_68920423,Okay,2.0,Amazon,negative,error,error,Job sustainability and wage rates,No growth as per sayings,Current Employee,,"Sep. 10, 2022"
+empReview_68400412,Good place,4.0,Amazon,positive,positive,positive,Good place to start a career,lengthy work hours and stress,"Former Employee, more than 1 year","Westminster, BC","Aug. 26, 2022"
+empReview_68897281,Company culture,3.0,Amazon,negative,error,negative,growth opportunities in certain areas,"worst company culture, it's all about competition and zero value is given to actual employee experience","Current Employee, more than 1 year",,"Sep. 9, 2022"
+empReview_68350897,Good place to start your carrer,5.0,Amazon,positive,positive,positive,"Nice people , learn manythings","Not much to tell. Wage
+Rate is bit lower than other companies","Current Employee, more than 1 year","Toronto, ON","Aug. 25, 2022"
+empReview_68860218,Associate’s Honest Review + Hourly Wage,3.0,Amazon,negative,neutral,negative,"1. Associate’s right to raise their voice because they know they will be heard. 
+2. Good growth opportunities.","1. Inbound associates put in twice as much energy then the rest.
+2. Mostly same people in same process path everyday. 
+3. Less recognition practices being followed.
+4. VTOs rolled out despite having huge volume at times, which in return puts load on the people that come onsite.","Current Employee, more than 1 year","Brampton, ON","Sep. 8, 2022"
+empReview_68274510,Love Working Here,5.0,Amazon,positive,neutral,neutral,Pay is great. You have a lot of support and room for growth. Builds soft and hard skills. Great community with different religions and culture. I love competition and Amazon has the right amount that keeps you motivated and wanting to grow.,"Training material is short, so be prepared to always be curious and learn a lot on your own. Fast-paced environment, you need to be able to grow on your own, unless you might feel overwhelmed.","Current Employee, less than 1 year","Toronto, ON","Aug. 24, 2022"
+empReview_68284489,My experience,5.0,Amazon,positive,positive,positive,Friendly environment with good leadership,Smart work instead of hard work.,"Current Employee, more than 1 year","Caledon, ON","Aug. 24, 2022"
+empReview_68849510,physical demanding,2.0,Amazon,negative,neutral,negative,employee benefits are good. paid time off available.,too much physical demanding .,"Current Employee, more than 1 year","Brampton, ON","Sep. 8, 2022"
+empReview_68859806,burnout culture,2.0,Amazon,neutral,neutral,neutral,great individual people changing atmospher,burnout culture and glass ceiling,"Current Employee, more than 8 years","Vancouver, BC","Sep. 8, 2022"
+empReview_68307117,Medicore,4.0,Amazon,positive,positive,positive,"Work experience
+Networking
+Leadership experience
+Easily transfer to other roles","Mundane work
+Team depends on manager's leadership","Current Employee, less than 1 year",,"Aug. 24, 2022"
+empReview_68788359,"Good benefits, boring work",3.0,Amazon,neutral,neutral,neutral,Really good benefits. Paid time off.,Inside 10 hrs a day. If you like being outdoors it's a painful job and time goes by slowly.,"Former Employee, less than 1 year",,"Sep. 6, 2022"
+empReview_68808800,Experience,3.0,Amazon,neutral,neutral,neutral,Work with some good people,Sr leadership is too distant,Current Employee,"Toronto, ON","Sep. 7, 2022"
+empReview_68240628,lots of opportunities and products to learn,5.0,Amazon,neutral,neutral,neutral,easily join and switch to other teams and have the flexibility of changing product domains.,"wlb, pay, benefits and culture",Current Employee,,"Aug. 23, 2022"
+empReview_68256597,Good learning opportunity,5.0,Amazon,positive,positive,positive,"Learning opportunity
+Great colleagues 
+Challenging work
+Competitive pay","Need to ask for things, nothing is gifted (Home office set up / Certification reimbursements), So some people miss out on these facilities
+Frugal environment","Current Employee, less than 1 year","Toronto, ON","Aug. 23, 2022"
+empReview_68257504,Great Company for growth,5.0,Amazon,positive,positive,positive,"Great pay, work environment, growth","Stressful job, long shifts, asap",Former Employee,,"Aug. 23, 2022"
+empReview_68784659,Not the Best for Warehouse Jobs,2.0,Amazon,negative,error,error,"* Stable Job
+* Good for pandemic","* Management need a lot of work
+* Need better warehouse associates 
+* A lot of intimidation among associates
+* Does not listen to associates' demands except safety (unless you request multiple times)
+* Very little to no diversity","Former Employee, more than 1 year","Delta, BC","Sep. 6, 2022"
+empReview_68257152,AM II,4.0,Amazon,neutral,neutral,neutral,"Never monotonous
+Good network opportunities
+Fast growth options","Competitive work environment, sometimes leading to inefficient work. Mentally and physically draining.",Current Employee,"Toronto, ON","Aug. 23, 2022"
+empReview_68742666,Worked as an Associate,3.0,Amazon,neutral,neutral,neutral,"Good pay and benefits
+Shuttle services","Long working hours
+Too much pressure",Former Employee,"Vancouver, BC","Sep. 5, 2022"
+empReview_68759051,Nice coworkers but poor WLB,3.0,Amazon,neutral,neutral,neutral,Co-workers and management are nice,"wlb is not great, many long hours",Current Employee,,"Sep. 6, 2022"
+empReview_67597540,great place to work,4.0,Amazon,neutral,neutral,neutral,good side work for part time,can be stressful at times,Current Employee,"Toronto, ON","Aug. 5, 2022"
+empReview_67513103,Still exploring,5.0,Amazon,positive,neutral,positive,"I am just 2.5 months old in AWS. During this short span, I found Amazon as a place for ""professionals"". It's a no non-sense company, delivers on its promises. I am liking it well till now as I like my team or managers to tell me on my face, if I am wrong. I don't like people speaking on my back. Hence I feel like I should be able to stick longer in this organization.
+Secondly they take learning very seriously!!",too many things to learn!!!,"Current Employee, less than 1 year","Toronto, ON","Aug. 3, 2022"
+empReview_67513832,Best place to work :),5.0,Amazon,positive,positive,positive,"All the techno.... incredible everyday is a day 1
+You have access to a lot of ressource.
+You have some dev time...",rapid pace so you need to put the time and effort to achieve your goals,"Current Employee, less than 1 year","Montreal, QC","Aug. 3, 2022"
+empReview_67533911,Good,4.0,Amazon,positive,positive,positive,Get to learn new things,Heavy work Too much pressure for quality,"Current Employee, less than 1 year",,"Aug. 4, 2022"
+empReview_67487477,Best onboarding experience,5.0,Amazon,positive,positive,positive,"- Extremely structured, very detailed and mostly self-service onboarding. I was blown away (in a good way). 
+ - I was a bit skeptical about the culture but to my surprise my team and people I have interacted with so far are very collaborative, helpful and humble. It is amazing. 
+- There is wealth of information available to anyone who is eager to learn and create an impact.","Not a big deal but do expect that there won't be free food (unlike other big tech companies). 
+Compensation is competitive but not extra ordinary (or perhaps it is because I didn't negotiate my package - so don't make that mistake).","Current Employee, less than 1 year","Toronto, ON","Aug. 3, 2022"
+empReview_68846901,Warehouse Associate,1.0,Amazon,neutral,neutral,neutral,"Good pay
+Decent hours
+Good team
+Vacation pay","Bad management 
+Lots of work
+Bad work life balance",Former Employee,,"Sep. 8, 2022"
+empReview_67510576,Good people,4.0,Amazon,neutral,neutral,neutral,"Good people, good work environment.","Too little staff, Bad working hours","Former Employee, less than 1 year",,"Aug. 3, 2022"
+empReview_67439576,Good place to work,5.0,Amazon,positive,positive,positive,"Exposure to work with talented people in the industry 
+Access to work on big data technologies with the ability to apply them to tackle humungous volumes of data
+Strong focus on personal growth and learning",Relatively poor in-house tool trainings which delays the onboarding process,"Current Employee, less than 1 year","Vancouver, BC","Aug. 2, 2022"
+empReview_68012050,Grind,2.0,Amazon,negative,negative,negative,It can be somewhat organized,It impersonal and inflexible and cheap,"Former Employee, more than 1 year",,"Aug. 17, 2022"
+empReview_68032004,Night shift,2.0,Amazon,negative,neutral,negative,I only had the chance to work at night shift which was not fit my family's requirements,"Good benefit
+Long hr shift
+physical work","Former Employee, less than 1 year","Ottawa, ON","Aug. 17, 2022"
+empReview_67895490,Ok if you have no other option,3.0,Amazon,positive,error,error,"Start off working with good benefits on day 1 and decent rate of pay considering the actual “interview” process. 
+
+Easy enough job. 
+
+Not as bad as U.S. horror stories imo.","Work environment is miserable. Managers often treat employees like they’re robots, and in general no one ever seems to be on the same page. From day 1-2 months I heard how to do the exact same job a different way from a different person nearly every single day. The work itself is mindless. Invest in a good pair of shoes (one of the benefits through Canada life covered orthotic  footwear), also stretch every day for your bodies sake. If you want to try hard at a job and take it seriously and work your way up, I’m not sure this is the place I would choose to do so. If you need a decent job to cover you for a while, this place will do the trick. ✌🏻",Current Employee,,"Aug. 14, 2022"
+empReview_67898018,PA,3.0,Amazon,positive,positive,positive,Good place to work at.,Limited opportunity to advance in career.,"Current Employee, more than 1 year","Calgary, AB","Aug. 14, 2022"
+empReview_67345067,Great place,5.0,Amazon,neutral,neutral,neutral,The Work here is fun,The work is demanding at times,Current Employee,"Collinson, NT","Jul. 30, 2022"
+empReview_68642792,I regret to join Amazon,1.0,Amazon,negative,negative,negative,"As a pros, I can only say benefits Amazon offers such as health insurance package, any doc expense coverings (some docs costed me over 1k to translate and shipping, all covered by Amazon)","- Managers are so bad! Your day typically depends on their MOOD. Some day my manager comes to our 1:1 meeting and says rude words and says sorry I don't have a mood today. It really spoils your day and effects to your productivity.
+- Forget WLB. Too much work. I remember to meet the performance I worked till 2-3am at least 2days in a week.","Former Employee, more than 1 year","Vancouver, BC","Sep. 2, 2022"
+empReview_67345534,SDE,4.0,Amazon,neutral,neutral,neutral,good and clear carer path,"no such cons, everything seems smooth",Current Employee,,"Jul. 30, 2022"
+empReview_67827115,Promotions are really slow and hard,2.0,Amazon,negative,negative,negative,Some people might like it,The pay is not good for people who stays there for long. You can stay a couple of years and move on. Promotions are really slow. There is no really good hike without promotions. The on call can get really bad too.,"Current Employee, more than 3 years","Vancouver, BC","Aug. 11, 2022"
+empReview_67250487,Good company,4.0,Amazon,neutral,neutral,neutral,Good company take care of employees,There are heavy boxes in team lift,"Current Employee, more than 1 year",,"Jul. 28, 2022"
+empReview_67266558,manages and guidee operations,4.0,Amazon,positive,positive,positive,"lots of work
+no work life balance","great
+work
+culture and office just do the work as mentioned and document it everything thats it","Current Employee, more than 8 years",,"Jul. 28, 2022"
+empReview_67735781,Lots of tech to learn; environment ranges from best to worst depending on your manager,3.0,Amazon,positive,error,positive,great manager => great work satisfaction,bad manager => not happy with work.,Current Employee,,"Aug. 9, 2022"
+empReview_67194418,you should go for that,5.0,Amazon,positive,positive,neutral,"they engage you in literally everything
+company values you
+they understand you",workers have to walk for long but since it is part time it feels fine,"Current Employee, more than 1 year","Brampton, ON","Jul. 26, 2022"
+empReview_66854934,Sortation,4.0,Amazon,neutral,neutral,neutral,"great pay, great benefits, snacks","management, feels like a robot","Current Employee, more than 1 year",,"Jul. 18, 2022"
+empReview_67441704,Good,3.0,Amazon,neutral,neutral,neutral,Big Company and good culture,Small Team with small office,Former Employee,,"Aug. 2, 2022"
+empReview_67461941,Great,3.0,Amazon,neutral,neutral,neutral,Compensation and options is competitive,Work life balance can be not great,Current Employee,,"Aug. 2, 2022"
+empReview_66823600,Great place to work .  Great place,5.0,Amazon,positive,positive,positive,Great place to work. Great place,I don't have any cons,Current Employee,,"Jul. 18, 2022"
+empReview_66788541,Good place to work,5.0,Amazon,positive,positive,positive,Good place for skill upgrade. A lot of good people working together.,It is a place with a bit of competition.,Current Employee,,"Jul. 17, 2022"
+empReview_66775305,too much money with too much work,5.0,Amazon,positive,positive,positive,"Extra activities for employee engagement
+Flexible schedule
+Great co workers
+Good management","Hell lot of work
+long hours in Safety shoes is difficult",Current Employee,,"Jul. 16, 2022"
+empReview_67344949,Get in get out,3.0,Amazon,neutral,neutral,neutral,Weekly payout so if you are down bad you'll be Gucci in a week,Don't expect help to come to you be ready for HR to be your best friendo,"Former Employee, more than 1 year",,"Jul. 30, 2022"
+empReview_66722361,good,5.0,Amazon,positive,positive,positive,on call and pip made people tired,salary is high in local,"Current Employee, less than 1 year",,"Jul. 14, 2022"
+empReview_66755415,New SDE2 hire,5.0,Amazon,positive,error,positive,"* Great manager
+* Good onboarding plan",* Onboarding tasks takes a long time,"Current Employee, less than 1 year","Vancouver, BC","Jul. 15, 2022"
+empReview_66716109,A good place to start,4.0,Amazon,positive,positive,positive,"Great benefits, lot of new things to learn. Great team to work with","Low pay , long 10 Hr shift","Former Employee, more than 5 years","Mississauga, ON","Jul. 14, 2022"
+empReview_67826958,Warehouse,1.0,Amazon,neutral,neutral,neutral,There are no pros honestly,Its a trash place to work,Former Employee,,"Aug. 11, 2022"
+empReview_67013720,Amazon  Brampton,2.0,Amazon,negative,error,error,3 days off per week. Stocks.,"Long hours of work. During prime season even if you are not an associate you will be required to work like an associate, example, they will require you to lift boxes and do stow or picking or packing .",Current Employee,,"Jul. 21, 2022"
+empReview_66997276,Area Manager role,3.0,Amazon,neutral,neutral,neutral,"1. Good pay.
+2. Some people are genuinely supportive.","1. Politics
+2. Poor shift timing
+3. Associates are nagging always",Former Employee,,"Jul. 21, 2022"
+empReview_67001751,horrible experience,2.0,Amazon,negative,error,error,"decent pay, scope of future developement if you stick with the company",i am a college student needed some extra income went to amazon. tough work alot of standing,"Current Employee, more than 3 years","Brampton, ON","Jul. 21, 2022"
+empReview_66945011,Very fast paced,3.0,Amazon,negative,neutral,neutral,Highest paying unskilled labour in Toronto,Job makes everyone prone to accident. Too many repetitive tasks,"Former Employee, less than 1 year","Vaughan, ON","Jul. 20, 2022"
+empReview_66326263,Excellent Place to Work,5.0,Amazon,positive,positive,positive,"Growth, learning & Team Culture",Can be hectic leading to burn outs,"Current Employee, more than 3 years","Toronto, ON","Jul. 5, 2022"
+empReview_66331818,Best place to learn and grow,5.0,Amazon,neutral,neutral,neutral,"work culture is pretty awesome
+Pay is worth the work (overtime pay)
+Many opportunities to learn and grow",sometimes it becomes really hectic,Former Employee,,"Jul. 5, 2022"
+empReview_66331876,Great company with total independence to each team,5.0,Amazon,positive,positive,positive,"- Each team is like a startup, have the freedom to operate in a unique way
+- Compensation",- Too big to create direct impact,"Current Employee, more than 3 years",,"Jul. 5, 2022"
+empReview_66333624,great,5.0,Amazon,neutral,neutral,neutral,good pay competivite i guess,not that much cons i think,Current Employee,,"Jul. 5, 2022"
+empReview_66937578,Nirmal,2.0,Amazon,neutral,neutral,neutral,Wednesday off every week okay,Same thing every day.. expected,Former Employee,,"Jul. 20, 2022"
+empReview_66705347,Fast paced,2.0,Amazon,neutral,neutral,neutral,"Good pay
+Benefits 
+Dental 
+Health insurance 
+Wellness program","Hectic
+Long hours
+Stressful environment
+Performance based on ai
+Non doable incentives","Former Employee, more than 1 year",,"Jul. 14, 2022"
+empReview_66119025,Warehouse associate (sort center),4.0,Amazon,neutral,neutral,neutral,Flexible work hours for part time job,Too many management changes for every department,Former Employee,"Calgary, AB","Jun. 29, 2022"
+empReview_66037995,"Great challenges, great teams to succeed on them.",5.0,Amazon,positive,positive,positive,"Great place to work, plenty of challenges everyday. Teams are all pushing in same direction, no unnecessary competition between team mates.","Ramp up at the beginning seems scary, to many things happening all time and not c crystal clear expectations, however, after a few weeks things start to make sense.","Current Employee, more than 5 years","Toronto, ON","Jun. 27, 2022"
+empReview_66058495,Great place for skills dev,5.0,Amazon,positive,positive,positive,"Autonomy, Structure, Team Spirit, opportunities","Easy to be overflown by information, might be difficult to integrate","Current Employee, less than 1 year","Quebec, QC","Jun. 28, 2022"
+empReview_66058779,amazon,5.0,Amazon,positive,positive,positive,all the benefits and fun,lots of work and work,Current Employee,,"Jun. 28, 2022"
+empReview_66587725,The team I work in is fine but AWS is really horrible,3.0,Amazon,neutral,neutral,neutral,"The team I work in is fine, not too busy, the pay is fair.","I hate oncall, for many times my phone screamed many times in the middle night.","Current Employee, more than 8 years","Toronto, ON","Jul. 12, 2022"
+empReview_66614343,Not what you expect from one of the top companies in the world,2.0,Amazon,negative,error,negative,Their health benefits is good and their career choice is helpful to start a new career.,"Every year they increase their rates and ask you to perform your duties faster to meet quota. After 3 years working at distribution centre, they stop increasing your wage but they continue increasing their rates.
+
+Majority of the leadership team doesn't care about their workers, they only care if you can produce big numbers for them. If you get hurt in the process of working harder and faster, they will just tell you to go see AMCARE so they can patch you up and continue working. If you are seriously injured, you can go home and not get paid or you can try working through the pain so can get paid but if you don't perform to meet their expectations you still get written warning. You voice your concern to management and HR, 90% of the time they will pretend to care and then sweep your concern under the rug like it was never there.
+
+Then there is favouritism, if you don't suck up to the management and HR, you will never be promoted. If the manager does something wrong, it's not their fault. The blame get deflected to the workers","Current Employee, more than 3 years","Balzac, AB","Jul. 12, 2022"
+empReview_66001982,good,4.0,Amazon,neutral,neutral,neutral,Nice people that help you,Some dont want to help,"Former Employee, less than 1 year",,"Jun. 27, 2022"
+empReview_66560638,Great Company,3.0,Amazon,positive,positive,positive,"benefits when you reach blue badge, lots of extra shifts available, variety of jobs (alone or with groups). Stable company","Difficult to achieve Blue Badge and receive benefits
+Picking hard on body with lots of injuries
+inconsistent Supervisors and rules.","Current Employee, more than 1 year","Balzac, AB","Jul. 11, 2022"
+empReview_67400023,Slavery with extra steps,1.0,Amazon,negative,negative,negative,"It will take years off your life, so if youre suicidal that helps",its pays crumbs compared to any other manual labour job,"Current Employee, more than 1 year","Ottawa, ON","Aug. 1, 2022"
+empReview_67400023,Slavery with extra steps,1.0,Amazon,negative,negative,negative,"It will take years off your life, so if youre suicidal that helps",its pays crumbs compared to any other manual labour job,"Current Employee, more than 1 year","Ottawa, ON","Aug. 1, 2022"
+empReview_66500375,Amazon Operations.,3.0,Amazon,neutral,neutral,neutral,Great medical insurance that covers more than most Canadian plans,Culture is could be better,"Current Employee, less than 1 year","Toronto, ON","Jul. 9, 2022"
+empReview_66481844,Stowing,3.0,Amazon,positive,negative,error,"Salary 
+Time off
+Holiday pay
+Overall good for part time job",Competition is high to get into managament,"Current Employee, more than 1 year",,"Jul. 9, 2022"
+empReview_65928975,result driven and high performance culture,5.0,Amazon,neutral,neutral,neutral,"opportunities, direct and casual culture","It's an ocean of information, sometimes trying to find the right POC can take sometime","Current Employee, more than 1 year","Toronto, ON","Jun. 24, 2022"
+empReview_65946685,Good place to not use the restroom for a while,5.0,Amazon,negative,positive,positive,"great money, free marathon training",cant really think of anything man,"Former Employee, more than 1 year",,"Jun. 24, 2022"
+empReview_65954703,Good for growth,5.0,Amazon,neutral,neutral,neutral,Good company for growth opportunities,Sometime it can get very intensive,Current Employee,,"Jun. 24, 2022"
+empReview_67327781,It’s a job.,1.0,Amazon,neutral,neutral,neutral,It is a job that pays.,Everything else besides the fact it’s a job.,Current Employee,,"Jul. 29, 2022"
+empReview_67348614,Not good place,1.0,Amazon,negative,negative,negative,Nothing in that place good,Everything and in every department bad,"Former Employee, more than 1 year","Brampton, ON","Jul. 30, 2022"
+empReview_65889867,good,5.0,Amazon,neutral,neutral,neutral,it has nice benefits and care about safety,Nothing as such for now,"Current Employee, less than 1 year",,"Jun. 23, 2022"
+empReview_67319834,Terrible workplace,1.0,Amazon,neutral,neutral,neutral,"No pros, terrible place to work.",Everything is a con working there,"Former Employee, less than 1 year","Ottawa, ON","Jul. 29, 2022"
+empReview_65887723,Great Place for the right person,4.0,Amazon,positive,positive,positive,"Ample room to grow
+Opportunity to work on interesting problems at large scale
+High Salary","Terrible Work life balance
+Company culture is essentially a cult","Current Employee, more than 1 year","Toronto, ON","Jun. 22, 2022"
+empReview_66408139,Pay is not that good with Flex,3.0,Amazon,neutral,neutral,neutral,"You get fuel surcharge
+Listen to music","Pay is not that great.
+Amazon pays more but ahead they pay less",Current Employee,,"Jul. 7, 2022"
+empReview_66427181,Good and stressfull,3.0,Amazon,negative,positive,positive,"Good benefits, working hours. Salaries are not bad comparing to similar positions outside. In addition to company stocks.","Moving up is a bit difficult if you do not have strong connections. Easier if you are young and willing to relocate every year. Safety are the real managers of the facilities. That puts everyone always under stress. Some times safety team are irrational and represent obstacles to accomplish the work. Due to rapid turnover of people at all levels, everyone is looking for his own benefit without considering the team or the company on the long run.","Current Employee, more than 3 years","Ottawa, ON","Jul. 7, 2022"
+empReview_65866454,Love it.,5.0,Amazon,positive,positive,positive,"- great onboarding
+- supportive team
+- flexible work environment
+- fosters learning culture / environment
+- interesting work",- escalations can seem a bit heavy handed,Current Employee,,"Jun. 22, 2022"
+empReview_67283117,Catalog,1.0,Amazon,neutral,neutral,neutral,Work from home options available,"Pay, culture is pathetic in the company",Current Employee,,"Jul. 28, 2022"
+empReview_66395103,If you don't have a better choice,2.0,Amazon,negative,negative,error,Big name. Evil in a noticeable way.,Systematically evil. The LP eventually turns everyone into an evil person.,Current Employee,"Vancouver, BC","Jul. 7, 2022"
+empReview_65857408,Good place to work in,4.0,Amazon,neutral,neutral,neutral,Friendly environment to work with. Great support from managements.,Need to hire more people as compared to the work flow.,"Current Employee, more than 1 year","Ajax, ON","Jun. 22, 2022"
+empReview_66340899,Amazing place,3.0,Amazon,positive,positive,positive,Good work life balance and bosses,Working too hard at times,"Current Employee, more than 1 year","Toronto, ON","Jul. 5, 2022"
+empReview_66364529,Packer,3.0,Amazon,negative,neutral,neutral,"- Fast-pase
+- Learn about the process","- Too demanding
+- Expectations are too high for salary given","Current Employee, more than 1 year","Toronto, ON","Jul. 6, 2022"
+empReview_65825222,good,5.0,Amazon,positive,positive,positive,Safety is the main focus at the workplace.,improvement in work environment and the hiring process.,Current Employee,,"Jun. 21, 2022"
+empReview_65682012,Amazing scope,4.0,Amazon,positive,positive,positive,Empowered and large portfolio. Breath of scope is bar none.,"Big organization with multiple systems and processes, especially for HR","Current Employee, more than 3 years","Vancouver, BC","Jun. 17, 2022"
+empReview_66205537,not that good,3.0,Amazon,negative,negative,negative,no pros i hated my managers,disrespected every hour of the work,"Current Employee, less than 1 year","Kingston, ON","Jul. 1, 2022"
+empReview_65601206,Work environment,5.0,Amazon,neutral,neutral,neutral,"Great atmosphere .
+Great people.
+Everyone is positive there.
+Nice location.
+Clean and safe environment.","Too fast.
+Short breaks.
+Sticking into the same task for a while",Former Employee,,"Jun. 15, 2022"
+empReview_65612358,Nice place to work,5.0,Amazon,neutral,neutral,neutral,"Friendly environment, equality, opportunities, benefits, Shifts","Pay, hours, N/A N/A N/A",Current Employee,,"Jun. 16, 2022"
+empReview_65636534,Good environment,5.0,Amazon,positive,neutral,positive,Was a fun working there,None for me all good,"Former Employee, more than 1 year","Brampton, ON","Jun. 16, 2022"
+empReview_65637464,A mid-carrier move to Amazon,5.0,Amazon,positive,positive,positive,Ideal learning experience. Great organizational culture. Growth opportunities.,Too many tasks and loads of information to absorb during first three months.,"Current Employee, more than 8 years","Toronto, ON","Jun. 16, 2022"
+empReview_65599043,Amazing experience,4.0,Amazon,positive,positive,positive,"Flexible schedule 
+Growth mindset
+Easy going work environment","Below average salary, targets to accomplish…",Former Employee,,"Jun. 15, 2022"
+empReview_65628203,Job,4.0,Amazon,neutral,neutral,neutral,"Good pay and overtime, supportive management","No additional benefits, less scope for development",Former Employee,,"Jun. 16, 2022"
+empReview_65644259,Work culture,4.0,Amazon,neutral,neutral,neutral,Great place to work. Gets exposure to was cloud service and architecting high scale services,Hectic work schedule and very heavy ops,Current Employee,"Vancouver, BC","Jun. 16, 2022"
+empReview_66150800,salary,3.0,Amazon,neutral,neutral,neutral,it's ok you can make 3000,nothing to say it's ok,Current Employee,,"Jun. 30, 2022"
+empReview_65788284,shipper,3.0,Amazon,neutral,neutral,neutral,good benefits and work schedule,Not enough growth and oppurtunities,Former Employee,,"Jun. 20, 2022"
+empReview_65818218,Growth,3.0,Amazon,negative,positive,negative,Lot of learning opportunities and stepping stone for growth,If get struck in it then it take long time to grow,"Current Employee, more than 3 years","Milton, ON","Jun. 21, 2022"
+empReview_65129674,Warehouse Associate,5.0,Amazon,neutral,neutral,neutral,Good weekly pay and more facilities,Night shift which makes difficult to work,"Current Employee, less than 1 year","London, ON","Jun. 5, 2022"
+empReview_65159381,a,5.0,Amazon,neutral,neutral,neutral,company is good in terms of work,too much owrk and overload,Current Employee,,"Jun. 6, 2022"
+empReview_65172862,Review,5.0,Amazon,positive,positive,positive,Pay is good and so are people,Work life balance is hard to find,"Current Employee, more than 1 year","Brampton, ON","Jun. 6, 2022"
+empReview_65816598,Good and bad,2.0,Amazon,neutral,neutral,error,"Social benefits, nice co-workers, good administration",Hiring and train the employee but not force to work like slave,Current Employee,,"Jun. 21, 2022"
+empReview_65155631,Great compensation,4.0,Amazon,neutral,neutral,neutral,Salary and benefits are very good,Work too much and less rest.,"Current Employee, less than 1 year","Ottawa, ON","Jun. 6, 2022"
+empReview_65103084,Great place to work,5.0,Amazon,neutral,neutral,neutral,More wage than others companies,Physical more active at work place,Current Employee,"Bolton, ON","Jun. 4, 2022"
+empReview_65103151,Rise and shine,5.0,Amazon,positive,positive,positive,Equality and working environment with colleagues,When it get busy there is a lot of burden on a associate while there are less associate.,Current Employee,,"Jun. 4, 2022"
+empReview_65118978,Great place to work,4.0,Amazon,positive,positive,positive,fast paced and very high learning,high manager attrition causes bad employee experience,"Current Employee, more than 1 year","Toronto, ON","Jun. 5, 2022"
+empReview_65118978,Great place to work,4.0,Amazon,positive,positive,positive,fast paced and very high learning,high manager attrition causes bad employee experience,"Current Employee, more than 1 year","Toronto, ON","Jun. 5, 2022"
+empReview_66482933,Toxic,1.0,Amazon,neutral,neutral,neutral,Nothing I can think of,Toxic culture; poor work life balance; bad management,Current Employee,,"Jul. 9, 2022"
+empReview_65092932,"Avoid blandness,make a brief but interesting point,don’t try to say too much.",5.0,Amazon,neutral,neutral,neutral,"Good benefits,good pay also good opportunities",Not sure for the work environment,"Current Employee, less than 1 year","Brampton, ON","Jun. 4, 2022"
+empReview_65098437,good,5.0,Amazon,neutral,neutral,neutral,nice pay accommodation as per needs,favouritism by managers towards associate,Current Employee,,"Jun. 4, 2022"
+empReview_65077755,Good,4.0,Amazon,neutral,neutral,neutral,"Good pay
+Friendly atmosphere
+Safe to workout",Sometimes you have to carry heavy package,"Current Employee, less than 1 year","Brampton, ON","Jun. 3, 2022"
+empReview_65099655,Part-Time Warehouse Associate Pay,4.0,Amazon,positive,positive,error,20 hours in two days,High expectations in terms of quality and productivity,"Current Employee, more than 1 year","Tsawwassen, BC","Jun. 4, 2022"
+empReview_65038580,good pay but some time over hard working.,5.0,Amazon,negative,positive,positive,a Good team who can understand your problems and treat you like a good teammate,hard working and you work like a machine and less chance to learning good and new skills,"Current Employee, less than 1 year",,"Jun. 2, 2022"
+empReview_65068051,Quick Pay,4.0,Amazon,neutral,neutral,neutral,"Nothing to complain about, sometimes management was too strict",Management can be an issue at times,Former Employee,,"Jun. 3, 2022"
+empReview_65074903,Great place,4.0,Amazon,neutral,neutral,neutral,Great people to work with,Long hours and very fast pase,"Current Employee, less than 1 year",,"Jun. 3, 2022"
+empReview_65031835,"Good company to work for , lots of learning",5.0,Amazon,neutral,neutral,neutral,good sharing of ideas in the company,work life balance can take a backseat,Current Employee,,"Jun. 2, 2022"
+empReview_65012606,Great Learning Opportunities,4.0,Amazon,positive,positive,positive,"- Many learning materials available for your growth. 
+- Flexible schedules
+- A new and interesting working philosophy","- If you are coming from a smaller company you will need to work hard to get an answer to your requests. People have their own priorities and you need multiple follow up for a simple answer. 
+- Remote work is making challenging the sense if a team. You might not be able to build a close relationship with your team.","Current Employee, less than 1 year","Vancouver, BC","Jun. 2, 2022"
+empReview_65030798,Good pay & people,4.0,Amazon,positive,error,positive,"-overall pay
+- benefits
+-meeting new friends 
+-opportunities to pick up extra shifts
+-overtime pay
+-flexible shift accomodations","-can take a physical toll on your body
+-10 hr shifts
+-two 30 min breaks
+-productivity & quality warnings","Current Employee, more than 1 year",,"Jun. 2, 2022"
+empReview_65030895,better place to work,4.0,Amazon,neutral,neutral,neutral,better salary for part time employees,workload is excessive and high rates,"Current Employee, more than 1 year","Richmond, BC","Jun. 2, 2022"
+empReview_65630073,Good enough,3.0,Amazon,neutral,neutral,neutral,its good and fast if there isn't any traffic,No work-life balance heavy work daily too many packages,Current Employee,"Mississauga, ON","Jun. 16, 2022"
+empReview_65637302,Great Culture,3.0,Amazon,neutral,neutral,neutral,Team building initiatives really help you learn a lot,Being in a warehouse all the time,Current Employee,,"Jun. 16, 2022"
+empReview_64929372,I love amwzin,5.0,Amazon,positive,positive,positive,Management is really good and try to excel you,Wear and tear on body,Current Employee,,"May 31, 2022"
+empReview_64947601,Amazing place to work,5.0,Amazon,positive,positive,positive,They have a new way of working and it is more efficient than many other big companies. All teams are very supportive and my manager is an incredible person.Every day I enjoy working here more.,"Given the size of the company, it takes time to connect with all departments.","Current Employee, less than 1 year","Toronto, ON","Jun. 1, 2022"
+empReview_66393486,Horrible..,1.0,Amazon,negative,error,negative,"Weekly Pay, Guaranteed 40 hours weekly, can pickup or drop shifts if available","Long hours 10 hr a day, terrible management, working like a slave, no benefits unless blue badge","Former Employee, less than 1 year",,"Jul. 6, 2022"
+empReview_65639940,Good,2.0,Amazon,negative,positive,error,"Good pay, ontime payments, always availble","Worked alot, back pain, injuries","Current Employee, less than 1 year","Brampton, ON","Jun. 16, 2022"
+empReview_64979654,"Overall good, just busy and physically demanding",4.0,Amazon,positive,positive,positive,"Good pay rate
+Amazing benefits
+Paid time off (Every week adds up around 3 hrs for permanent employee)",Very busy and physically demanding and long shifts,"Former Employee, less than 1 year","Brampton, ON","Jun. 1, 2022"
+empReview_65440948,fc associate,3.0,Amazon,negative,error,negative,"pay, overtime,night shifts,more hours,benefits, health and medical","tough culture,metrics,hours,health,fast pace, heavy lifting","Former Employee, less than 1 year",,"Jun. 12, 2022"
+empReview_66244079,Amazon Web Services is NOT a top employer in the cloud industry.,1.0,Amazon,negative,error,error,"Pay is decent, but usually not nearly as what you could make with other MAMAA/FAANG companies, or top tech companies.","-Amazon at its' core is in the business of optimizing resources, and it treats employees as such...always trying to get more out of them. 
+-Employees are truly replaceable. 
+-AWS/Amazon operates like a cult with the leadership principles (read about it on Reddit).
+-Cult of personality around Bezos and Jassy is very strong and weird.
+-They don't pay well. Much lower compared to salaries for peer roles at other companies. They rely on stocks to make up for it. 
+-Your salary will effectively be lower after 4 yrs, as you don't get stock refresh, unless you get promoted. But good luck with that. You need to work 120+ hours a week to get promoted. 
+-They will make you think you are changing the world, and all that leadership bs. You are not. You work in cloud, a growth industry, and there are so many other great companies doing better at this point. 
+-The offices are very minimalist, asepticised and prevent workers from identifying to the space. Very boring, and super frugal (cheap).
+-Every question you ask will be answered by a wiki. 
+-The interview process (The Loop) should have been an indicator for many as to what the actual work will look like. 
+-The background check was rediculously thorough, invasive and long. I thought I was joining the CIA at one point. 
+-The way they treat ex employees after you leave is horrible. Try to get any paperwork or any answers after you leave, and you are nobody.","Former Employee, more than 3 years",,"Jul. 3, 2022"
+empReview_64825004,Great,5.0,Amazon,positive,positive,positive,awesome place to work overall,"literally cannot think of any cons, maybe work hours?","Former Employee, more than 1 year","Vancouver, BC","May 29, 2022"
+empReview_64829554,Great company,5.0,Amazon,neutral,positive,neutral,Great Benefits Flexible Supporting Expanding,No No No No No,"Current Employee, less than 1 year",,"May 29, 2022"
+empReview_65377050,Human Resource Assistant,3.0,Amazon,negative,negative,negative,Only bad experience and never want to think about Amazon again in lifetime. If you want to work with professional people then please do not choose Amazon.,"Amazon Fulfillment center HR managers & HRBP's are Robots.
+No process knowledge and blindly follow policy. They terminate employees for silly reasons which doesn't sound logical.","Former Employee, more than 1 year","Delta, BC","Jun. 10, 2022"
+empReview_65430055,a good place for starting up in your career in logisitic-warehousing industry,3.0,Amazon,neutral,neutral,neutral,"-systematical 
+-advanced logistic technology
+-working place safety
+-supportive team worker","-minimum rate
+-long working hour
+-short lunch break",Former Employee,,"Jun. 12, 2022"
+empReview_64795650,Great opportunities,5.0,Amazon,positive,error,neutral,Benefits from the day you start!,Bathrooms on one side of center,"Current Employee, less than 1 year",,"May 28, 2022"
+empReview_64797047,Good,5.0,Amazon,neutral,neutral,neutral,Very Good and nice company,Nothing cons to discuss about,"Current Employee, less than 1 year",,"May 28, 2022"
+empReview_64804710,Associate,5.0,Amazon,neutral,neutral,neutral,Good and friendly environment and top rated,"Physically demanding, long working hours","Former Employee, less than 1 year",,"May 28, 2022"
+empReview_64785389,Amazing,4.0,Amazon,positive,positive,positive,I was the best one,Need unions because we are underpayed,Current Employee,,"May 27, 2022"
+empReview_64575169,Amazon Review,5.0,Amazon,neutral,neutral,neutral,great culture and comp pay,work/life balance not always ideal,"Former Employee, more than 1 year","Toronto, ON","May 23, 2022"
+empReview_64521709,Great side gig,4.0,Amazon,neutral,neutral,neutral,"Small group of employees, friendly","Low pay, long hours and laborous","Current Employee, less than 1 year",,"May 22, 2022"
+empReview_64536620,Amazing Work experience,4.0,Amazon,positive,error,positive,"better pay
+Better insurance Policy
+PTO upto 50 hrs for part time and 70 Hrs for Fulltime
+Vacation Pay",Its difficult to get promotion,Current Employee,,"May 23, 2022"
+empReview_65153479,Ok,3.0,Amazon,positive,positive,positive,"Kept busy, people are nice","Pay low, not many benefits","Former Employee, less than 1 year","Mississauga, ON","Jun. 6, 2022"
+empReview_65173594,associate,3.0,Amazon,positive,error,negative,"great benefit, three days off, plus salary increase every 6 month","everyday you will be tired, psychically demanding, salary will increase only by 25 cents each 6 months, you will have no life",Current Employee,,"Jun. 6, 2022"
+empReview_65175086,Pay is not good,3.0,Amazon,positive,positive,negative,Life is blance : schedule is very good : score job,Very long shift or some department is very stress full,"Current Employee, more than 3 years","Bolton, ON","Jun. 6, 2022"
+empReview_64511157,More Benefit,4.0,Amazon,positive,positive,positive,I like the exercise part of the work.,too much longer hours and the pay is not commensurate to the hours.,"Current Employee, more than 1 year","Ottawa, ON","May 22, 2022"
+empReview_64511553,Amazon,4.0,Amazon,positive,positive,positive,Great opportunities for growth around the company,work life balance is very hard to have as you go up in the company.,Former Employee,,"May 22, 2022"
+empReview_64416142,good company,5.0,Amazon,positive,positive,positive,good working environment high salary,working too much and over time,"Current Employee, more than 1 year","Ottawa, ON","May 19, 2022"
+empReview_64436306,NA,5.0,Amazon,positive,positive,positive,It is very good job,No cons of this co.,"Former Employee, less than 1 year",,"May 20, 2022"
+empReview_64172472,Challenging but rewarding,4.0,Amazon,positive,positive,positive,"Good compensation
+Contributing to an industry-leading team
+Good recognition of the work you put
+Smart colleagues to be able to plan and problem solve with","High pace (not necessarily a negative)
+Long hours
+Can have stressful times","Current Employee, less than 1 year",,"May 15, 2022"
+empReview_64201603,Easy and repetitive work for decent pay,4.0,Amazon,positive,error,error,"Tasks weren't difficult
+Decent breaks
+Decent pay
+Lots of opportunities for extra shifts","Very tiring for first few weeks
+Night shift","Current Employee, less than 1 year","Vaughan, ON","May 16, 2022"
+empReview_64204937,Working at Amazon,4.0,Amazon,neutral,neutral,neutral,Perks when KPIs are met/exceeded,"Always on your feet, pressure to meet KPIs",Current Employee,"Balzac, AB","May 16, 2022"
+empReview_64862999,Good pay,3.0,Amazon,positive,error,error,flexible hours and nice office,remote communications hard to reach,"Current Employee, more than 3 years","Toronto, ON","May 30, 2022"
+empReview_64168613,Good place,5.0,Amazon,positive,positive,positive,Good benefit and learning opportunities new technology,Night shift and additional work time,"Current Employee, more than 1 year",,"May 15, 2022"
+empReview_64159069,average,4.0,Amazon,neutral,error,negative,"fast phased, always learning, always coaching",long hours no life/work balance,Current Employee,,"May 15, 2022"
+empReview_64128264,6 Month Temporary Contract to Recover from Burnout,5.0,Amazon,neutral,neutral,neutral,"As an associate in the stow department, it's mindless work. I really enjoyed the people I worked with so it kept it interesting. I was burnt out from my industry and needed 6 months to work an entry level job to recover. Amazon has strong systems and there are no surprises, so it's nice if you want something consistent.",No windows in the warehouse. Lots of associates complain about their jobs. Long hours. Mild back pain. Can be mind numbing.,"Current Employee, less than 1 year","Scarborough, ON","May 14, 2022"
+empReview_64139829,good place,5.0,Amazon,neutral,neutral,neutral,"Flexibility, good benefits, work with nice colleague.","Tired, boring, need to drive a very long time to the work place.","Current Employee, less than 1 year","Toronto, ON","May 14, 2022"
+empReview_64142392,Good to experience,4.0,Amazon,positive,error,positive,A lot of tech opportunities,"10 hours work, and injuries on heavy jobs","Current Employee, less than 1 year","Montreal, QC","May 14, 2022"
+empReview_64143685,What to know about Amazon,4.0,Amazon,positive,positive,positive,Definitely pays a lot of money,The transport gets hard sometimes,"Current Employee, less than 1 year",,"May 14, 2022"
+empReview_64039734,amazon review,5.0,Amazon,positive,positive,positive,amazon is one of the best places to work specially as testers.,I would say the schedule can be very hectic sometimes,"Former Employee, less than 1 year","Toronto, ON","May 12, 2022"
+empReview_64047120,Good job,5.0,Amazon,neutral,neutral,neutral,"Good benefits, overtime pay after 40 hours",Long shifts of 10 hours,"Current Employee, more than 3 years","Brampton, ON","May 12, 2022"
+empReview_64064365,Amazing Experience,5.0,Amazon,positive,positive,positive,Fast paced role with lots of learning opportunities,Hours vary based on site and demand,"Current Employee, more than 5 years","Toronto, ON","May 12, 2022"
+empReview_64743334,Alright,2.0,Amazon,negative,neutral,neutral,"you get some benefits like medical insurances and employee discount, the competitive wage is also nice","very strict, barely and break times, stressful","Former Employee, less than 1 year","Brampton, ON","May 26, 2022"
+empReview_64011599,Good company to work with,4.0,Amazon,neutral,neutral,neutral,Great Culture and everyone is here to help,Salary is not as good in comparison to the market,Current Employee,"Edmonton, AB","May 11, 2022"
+empReview_63976962,Pretty great,5.0,Amazon,positive,positive,positive,My manager is awesome. Remote job.,Too much work. People are stressed.,Current Employee,,"May 11, 2022"
+empReview_63949649,Customer service,4.0,Amazon,positive,negative,positive,Friendly team learn many jobs,Many things I can’t mention it,"Current Employee, more than 1 year","Mississauga, ON","May 10, 2022"
+empReview_63950505,Good,4.0,Amazon,neutral,neutral,neutral,Nice to work if you thinking for growing in company,Work and life balance is very bad,"Current Employee, more than 1 year",,"May 10, 2022"
+empReview_63997277,Recruiting,4.0,Amazon,positive,positive,positive,Good pay and good equity,Busy place to work and hard to move up,"Current Employee, more than 1 year","Toronto, ON","May 11, 2022"
+empReview_63929950,Good compony,5.0,Amazon,positive,positive,positive,Good company for working. Have fun and make history,"Fast pace work environment.
+Pay package is not so good","Current Employee, more than 5 years",,"May 10, 2022"
+empReview_64616595,Better than nothing,3.0,Amazon,negative,negative,neutral,"Health Insurance, Schedule, Free safety shoes, No resume required","Location out of the city, no public transportation
+Low pay
+Monotonous tasks","Current Employee, more than 1 year","Ottawa, ON","May 24, 2022"
+empReview_64623451,alright,3.0,Amazon,positive,error,positive,it's really just alright i guess. nice team members,"pretty stressful, big company feeling.",Current Employee,"Toronto, ON","May 24, 2022"
+empReview_63829268,it's good easy going,5.0,Amazon,neutral,neutral,neutral,good to start your career,so far it's hard to say,"Current Employee, less than 1 year","Toronto, ON","May 8, 2022"
+empReview_63845112,Great company,5.0,Amazon,positive,positive,positive,Lots of learning and growth opportunities,WLB can be a challenge in some cases.,"Current Employee, less than 1 year",,"May 9, 2022"
+empReview_63851647,Working life,5.0,Amazon,positive,positive,neutral,"Amazing company to workwith, work culture is awesome",No comments to mention herewith.,"Former Employee, more than 1 year",,"May 9, 2022"
+empReview_64524154,Good work,3.0,Amazon,neutral,neutral,neutral,I am new so i have nothing to say yet,Soreness at starting and long hour work,Current Employee,"Hamilton, ON","May 22, 2022"
+empReview_63815226,Very positive,5.0,Amazon,positive,positive,positive,"Great energy team, leadership is reliable","No, I think this is great","Former Employee, more than 1 year","Vancouver, BC","May 8, 2022"
+empReview_64574946,Political,2.0,Amazon,neutral,negative,positive,$$$ is the biggest reason to join,Politics is the biggest reason to stay away,Current Employee,,"May 23, 2022"
+empReview_63817981,Srhh,4.0,Amazon,neutral,neutral,neutral,Great good management fair work Awesome place,Long hours tough work management alright,"Former Employee, less than 1 year","Scarborough, ON","May 8, 2022"
+empReview_63783464,It’s amazing,5.0,Amazon,positive,neutral,positive,Taking care of Saftey and performance in Same time,Shift is variable as it match a lot of associates choices,"Current Employee, more than 1 year","Scarborough, ON","May 7, 2022"
