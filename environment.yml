@@ -18,4 +18,5 @@ dependencies:
   - cchardet
   - gensim
   - seaborn
+  - vadersentiment
 prefix: /opt/homebrew/Caskroom/miniconda/base/envs/insy-669-group-project
