@@ -19,4 +19,6 @@ dependencies:
   - gensim
   - seaborn
   - vadersentiment
+  - plotly
+  - nbformat
 prefix: /opt/homebrew/Caskroom/miniconda/base/envs/insy-669-group-project
